@@ -1,0 +1,29 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3.1,
+        "sourceFile"    : "InteriorInsulation.obj",
+        "generatedBy"   : "OBJConverter",
+        "vertices"      : 100,
+        "faces"         : 96,
+        "normals"       : 384,
+        "uvs"           : 0,
+        "materials"     : 1
+    },
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "insulation",
+	"colorAmbient" : [1.0, 0.863159, 0.812139],
+	"colorDiffuse" : [1.0, 1.0, 1.0],
+	"colorSpecular" : [0.0, 0.0, 0.0],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 500.0,
+	"transparency" : 1.0
+	}],
+
+    "buffers": "InteriorInsulation.obj.bin"
+
+}

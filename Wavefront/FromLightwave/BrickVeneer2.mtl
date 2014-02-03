@@ -1,0 +1,12 @@
+newmtl Brick
+Ka 0.363311 0.0765428 0.0860775
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Ka E:LearnHPB-assets/Lightwave/Individual Objects/Cross Sections/BrickSmallBrown0264_5_S.jpg
+

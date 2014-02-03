@@ -1,0 +1,33 @@
+newmtl Gypsum
+Ka 0.540638 0.537617 0.543658
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Sheathing
+Ka 0.552327 0.549241 0.555412
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl SteelStuds
+Ka 0.679778 0.675981 0.683576
+Ke 0 0 0
+Kd 0.86 0.86 0.86
+Ks 0.33 0.33 0.33
+Ns 189
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+

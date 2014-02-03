@@ -1,0 +1,55 @@
+newmtl Default
+Ka 0.784314 0.784314 0.784314
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Gypsum
+Ka 0.540638 0.537617 0.543658
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Stone
+Ka 0.715777 0.672648 0.602652
+Ke 0 0 0
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+Ns 250
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Vapor_Membrane
+Ka 0.989825 0.922521 0.244052
+Ke 0 0 0
+Kd 1 1 1
+Ks 0.09 0.09 0.09
+Ns 855
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Rigid_Insulation
+Ka 0.784314 0.784314 0.784314
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+

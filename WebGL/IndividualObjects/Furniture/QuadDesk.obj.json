@@ -1,0 +1,31 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3.1,
+        "sourceFile"    : "QuadDesk.obj",
+        "generatedBy"   : "OBJConverter",
+        "vertices"      : 3000,
+        "faces"         : 1362,
+        "normals"       : 0,
+        "uvs"           : 451,
+        "materials"     : 1
+    },
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "Default",
+	"colorAmbient" : [0.854902, 0.854902, 0.854902],
+	"colorDiffuse" : [1.0, 1.0, 1.0],
+	"colorSpecular" : [0.784314, 0.784314, 0.784314],
+	"mapDiffuse" : "QuadDesk11-21-12.jpg",
+	"illumination" : 2,
+	"opticalDensity" : 1.0,
+	"specularCoef" : 398.039216,
+	"transparency" : 1.0
+	}],
+
+    "buffers": "QuadDesk.obj.bin"
+
+}

@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+newmtl Default
+Ns 41.176471
+Ka 0.000000 0.000000 0.000000
+Kd 0.526088 0.526101 0.526094
+Ks 0.098641 0.098644 0.098642
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Administrator\Desktop\ComputerUV.jpg
+
+

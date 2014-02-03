@@ -1,0 +1,31 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3.1,
+        "sourceFile"    : "ConfTable.obj",
+        "generatedBy"   : "OBJConverter",
+        "vertices"      : 178,
+        "faces"         : 72,
+        "normals"       : 0,
+        "uvs"           : 140,
+        "materials"     : 1
+    },
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "conftable",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.8, 0.8, 0.8],
+	"colorSpecular" : [0.0, 0.0, 0.0],
+	"mapDiffuse" : "ConfTable11-20-12.jpg",
+	"illumination" : 2,
+	"opticalDensity" : 1.0,
+	"specularCoef" : 398.039216,
+	"transparency" : 1.0
+	}],
+
+    "buffers": "ConfTable.obj.bin"
+
+}

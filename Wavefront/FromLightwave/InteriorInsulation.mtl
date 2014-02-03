@@ -1,0 +1,12 @@
+newmtl insulation
+Ka 1 0.863159 0.812139
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 500
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Ka E:LearnHPB-assets/Lightwave/Individual Objects/images/InteriorInsulationUV.jpg
+

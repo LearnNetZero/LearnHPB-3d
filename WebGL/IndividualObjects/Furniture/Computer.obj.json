@@ -1,0 +1,31 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3.1,
+        "sourceFile"    : "Computer.obj",
+        "generatedBy"   : "OBJConverter",
+        "vertices"      : 56,
+        "faces"         : 46,
+        "normals"       : 0,
+        "uvs"           : 146,
+        "materials"     : 1
+    },
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "Default",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.526088, 0.526101, 0.526094],
+	"colorSpecular" : [0.098641, 0.098644, 0.098642],
+	"mapDiffuse" : "ComputerUV.jpg",
+	"illumination" : 2,
+	"opticalDensity" : 1.0,
+	"specularCoef" : 41.176471,
+	"transparency" : 1.0
+	}],
+
+    "buffers": "Computer.obj.bin"
+
+}
