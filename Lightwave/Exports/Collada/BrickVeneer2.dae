@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+    <asset>
+        <contributor>
+            <authoring_tool>Newtek LightWave CORE v1.0</authoring_tool>
+            <comments>LWCORE_profile_version=0.1</comments>
+        </contributor>
+        <created>2014-02-03T12:26:26Z</created>
+        <modified>2014-02-03T12:26:26Z</modified>
+        <unit meter="1"/>
+        <up_axis>Y_UP</up_axis>
+    </asset>
+    <library_animations/>
+    <library_cameras/>
+    <library_lights/>
+    <library_images>
+        <image id="BrickUV" name="BrickUV">
+            <init_from>file:///E:/LHPB/LearnHPB-3d/Lightwave/Content/Images/BrickUV.jpg</init_from>
+        </image>
+        <extra>
+            <technique profile="LWCORE">
+                <component id="comp_Image" type="Image">
+                    <attribute sid="Name" dynamic="custom">
+                        <description>
+                            <parameter_type value="string"/>
+                            <is_input value="true"/>
+                        </description>
+                        <string>BrickUV</string>
+                    </attribute>
+                    <attribute sid="Self" dynamic="custom">
+                        <description>
+                            <parameter_type value="WeakRef"/>
+                            <is_input value="false"/>
+                        </description>
+                    </attribute>
+                    <attribute sid="Name_1">
+                        <string></string>
+                    </attribute>
+                    <attribute sid="Input">
+                        <WeakRef></WeakRef>
+                        <connected_component target_attribute="Output">
+                            <component id="comp_ImageClip" type="ImageClip">
+                                <attribute sid="Name" dynamic="custom">
+                                    <description>
+                                        <parameter_type value="string"/>
+                                        <is_input value="true"/>
+                                    </description>
+                                    <string>Image_Clip</string>
+                                </attribute>
+                                <attribute sid="Self" dynamic="custom">
+                                    <description>
+                                        <parameter_type value="WeakRef"/>
+                                        <is_input value="false"/>
+                                    </description>
+                                </attribute>
+                                <attribute sid="Name_1">
+                                    <string></string>
+                                </attribute>
+                                <attribute sid="Input">
+                                    <string>E:\LHPB\LearnHPB-3d\Lightwave\Content\Images\BrickUV.jpg</string>
+                                </attribute>
+                                <attribute sid="DisplayName">
+                                    <string>BrickUV</string>
+                                </attribute>
+                                <attribute sid="ImageLabel">
+                                    <string>E:\LHPB\LearnHPB-3d\Lightwave\Content\Images\BrickUV.jpg</string>
+                                </attribute>
+                                <attribute sid="RangeInfo">
+                                    <int>0</int>
+                                </attribute>
+                                <attribute sid="ImageInfo">
+                                    <string>256 x 256
+channels = 0
+linearity = Unknown
+channels = 0
+0 bits per channel
+0 bytes image
+</string>
+                                </attribute>
+                            </component>
+                        </connected_component>
+                    </attribute>
+                    <attribute sid="ImageLabel">
+                        <string>E:/LHPB/LearnHPB-3d/Lightwave/Content/Images/BrickUV.jpg</string>
+                    </attribute>
+                    <children>
+                        <component_ref target="comp_ImageClip"/>
+                    </children>
+                </component>
+            </technique>
+        </extra>
+    </library_images>
+    <library_materials>
+        <material id="Default" name="Default">
+            <instance_effect url="#Default-fx"/>
+        </material>
+        <material id="Brick" name="Brick">
+            <instance_effect url="#Brick-fx"/>
+        </material>
+    </library_materials>
+    <library_effects>
+        <effect id="Default-fx">
+            <profile_COMMON>
+                <technique sid="common">
+                    <lambert>
+                        <diffuse>
+                            <color sid="diffuse">0.6 0.6 0.6 0</color>
+                        </diffuse>
+                    </lambert>
+                </technique>
+            </profile_COMMON>
+            <extra>
+                <technique profile="LWCORE">
+                    <shaders>
+                        <component id="comp_Material" type="Material">
+                            <attribute sid="Name" dynamic="custom">
+                                <description>
+                                    <parameter_type value="string"/>
+                                    <is_input value="true"/>
+                                </description>
+                                <string>Default</string>
+                            </attribute>
+                            <attribute sid="Self" dynamic="custom">
+                                <description>
+                                    <parameter_type value="WeakRef"/>
+                                    <is_input value="false"/>
+                                </description>
+                            </attribute>
+                            <attribute sid="Name_1">
+                                <string></string>
+                            </attribute>
+                            <attribute sid="Double Sided">
+                                <bool>false</bool>
+                            </attribute>
+                            <attribute sid="Radiosity Transparent">
+                                <bool>false</bool>
+                            </attribute>
+                            <attribute sid="Shader">
+                                <WeakRef></WeakRef>
+                                <connected_component target_attribute="Output">
+                                    <component id="comp_LegacyLightWave" type="LegacyLightWave">
+                                        <attribute sid="Name" dynamic="custom">
+                                            <description>
+                                                <parameter_type value="string"/>
+                                                <is_input value="true"/>
+                                            </description>
+                                            <string>Legacy_LightWave</string>
+                                        </attribute>
+                                        <attribute sid="Self" dynamic="custom">
+                                            <description>
+                                                <parameter_type value="WeakRef"/>
+                                                <is_input value="false"/>
+                                            </description>
+                                        </attribute>
+                                        <attribute sid="Name_1">
+                                            <string></string>
+                                        </attribute>
+                                        <attribute sid="Color">
+                                            <float3>0.6 0.6 0.6</float3>
+                                        </attribute>
+                                        <attribute sid="Luminosity">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="Diffuse">
+                                            <float>0.78</float>
+                                        </attribute>
+                                        <attribute sid="Specularity">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="Glossiness">
+                                            <float>0.4</float>
+                                        </attribute>
+                                        <attribute sid="Reflection">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="Transparency">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RefractionIndex">
+                                            <float>1</float>
+                                        </attribute>
+                                        <attribute sid="Translucency">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="Normal">
+                                            <double3>0 0 0</double3>
+                                        </attribute>
+                                        <attribute sid="BumpHeight">
+                                            <float>1</float>
+                                        </attribute>
+                                        <attribute sid="Bump">
+                                            <double3>0 0 0</double3>
+                                        </attribute>
+                                        <attribute sid="ColorHighlights">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ColorFilter">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="AdditiveTransparency">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="DiffuseSharpness">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ReflectionOptions">
+                                            <int>1</int>
+                                        </attribute>
+                                        <attribute sid="ReflectionMap">
+                                            <WeakRef></WeakRef>
+                                        </attribute>
+                                        <attribute sid="ReflectionImageSeamAngle">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ReflectionBlurring">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ReflectionSamples">
+                                            <int>8</int>
+                                        </attribute>
+                                        <attribute sid="RefractionOptions">
+                                            <int>1</int>
+                                        </attribute>
+                                        <attribute sid="RefractionMap">
+                                            <WeakRef></WeakRef>
+                                        </attribute>
+                                        <attribute sid="RefractionImageSeamAngle">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RefractionBlurring">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RefractionSamples">
+                                            <int>8</int>
+                                        </attribute>
+                                        <attribute sid="LWSURFChunk">
+                                            <string></string>
+                                        </attribute>
+                                    </component>
+                                </connected_component>
+                            </attribute>
+                            <children>
+                                <component_ref target="comp_LegacyLightWave"/>
+                            </children>
+                        </component>
+                    </shaders>
+                </technique>
+            </extra>
+        </effect>
+        <effect id="Brick-fx">
+            <profile_COMMON>
+                <newparam sid="BrickUV-surface">
+                    <surface type="2D">
+                        <init_from>BrickUV</init_from>
+                        <format>A8R8G8B8</format>
+                    </surface>
+                </newparam>
+                <newparam sid="BrickUV-sampler">
+                    <sampler2D>
+                        <source>BrickUV-surface</source>
+                        <minfilter>LINEAR_MIPMAP_LINEAR</minfilter>
+                        <magfilter>LINEAR</magfilter>
+                    </sampler2D>
+                </newparam>
+                <technique sid="common">
+                    <lambert>
+                        <diffuse>
+                            <texture texture="BrickUV-sampler" texcoord="TEX0"/>
+                        </diffuse>
+                    </lambert>
+                </technique>
+            </profile_COMMON>
+            <extra>
+                <technique profile="LWCORE">
+                    <shaders>
+                        <component id="comp_Material_2" type="Material">
+                            <attribute sid="Name" dynamic="custom">
+                                <description>
+                                    <parameter_type value="string"/>
+                                    <is_input value="true"/>
+                                </description>
+                                <string>Brick</string>
+                            </attribute>
+                            <attribute sid="Self" dynamic="custom">
+                                <description>
+                                    <parameter_type value="WeakRef"/>
+                                    <is_input value="false"/>
+                                </description>
+                            </attribute>
+                            <attribute sid="Name_1">
+                                <string></string>
+                            </attribute>
+                            <attribute sid="Double Sided">
+                                <bool>false</bool>
+                            </attribute>
+                            <attribute sid="Radiosity Transparent">
+                                <bool>false</bool>
+                            </attribute>
+                            <attribute sid="Shader">
+                                <WeakRef></WeakRef>
+                                <connected_component target_attribute="Output">
+                                    <component id="comp_LegacyLightWave_2" type="LegacyLightWave">
+                                        <attribute sid="Name" dynamic="custom">
+                                            <description>
+                                                <parameter_type value="string"/>
+                                                <is_input value="true"/>
+                                            </description>
+                                            <string>Legacy_LightWave_1</string>
+                                        </attribute>
+                                        <attribute sid="Self" dynamic="custom">
+                                            <description>
+                                                <parameter_type value="WeakRef"/>
+                                                <is_input value="false"/>
+                                            </description>
+                                        </attribute>
+                                        <attribute sid="Name_1">
+                                            <string></string>
+                                        </attribute>
+                                        <attribute sid="Color">
+                                            <float3>0 0 0</float3>
+                                            <connected_component target_attribute="Color">
+                                                <component id="comp_ImageSampler" type="ImageSampler">
+                                                    <attribute sid="Name" dynamic="custom">
+                                                        <description>
+                                                            <parameter_type value="string"/>
+                                                            <is_input value="true"/>
+                                                        </description>
+                                                        <string>Image_Sampler</string>
+                                                    </attribute>
+                                                    <attribute sid="Self" dynamic="custom">
+                                                        <description>
+                                                            <parameter_type value="WeakRef"/>
+                                                            <is_input value="false"/>
+                                                        </description>
+                                                    </attribute>
+                                                    <attribute sid="Name_1">
+                                                        <string></string>
+                                                    </attribute>
+                                                    <attribute sid="Image">
+                                                        <WeakRef></WeakRef>
+                                                        <connected_component target_attribute="Self">
+                                                            <component_ref target="comp_Image"/>
+                                                        </connected_component>
+                                                    </attribute>
+                                                    <attribute sid="WidthTile">
+                                                        <int>1</int>
+                                                    </attribute>
+                                                    <attribute sid="HeightTile">
+                                                        <int>1</int>
+                                                    </attribute>
+                                                    <attribute sid="BumpHeight">
+                                                        <float>1</float>
+                                                    </attribute>
+                                                    <attribute sid="Projection">
+                                                        <WeakRef></WeakRef>
+                                                        <connected_component target_attribute="Projection">
+                                                            <component id="comp_UVProjection" type="UVProjection">
+                                                                <attribute sid="Name" dynamic="custom">
+                                                                    <description>
+                                                                        <parameter_type value="string"/>
+                                                                        <is_input value="true"/>
+                                                                    </description>
+                                                                    <string>UV_Projection</string>
+                                                                </attribute>
+                                                                <attribute sid="Self" dynamic="custom">
+                                                                    <description>
+                                                                        <parameter_type value="WeakRef"/>
+                                                                        <is_input value="false"/>
+                                                                    </description>
+                                                                </attribute>
+                                                                <attribute sid="Name_1">
+                                                                    <string></string>
+                                                                </attribute>
+                                                                <attribute sid="UvMapName">
+                                                                    <string>Texture</string>
+                                                                </attribute>
+                                                            </component>
+                                                        </connected_component>
+                                                    </attribute>
+                                                    <children>
+                                                        <component_ref target="comp_UVProjection"/>
+                                                    </children>
+                                                </component>
+                                            </connected_component>
+                                        </attribute>
+                                        <attribute sid="Luminosity">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="Diffuse">
+                                            <float>1</float>
+                                        </attribute>
+                                        <attribute sid="Specularity">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="Glossiness">
+                                            <float>0.4</float>
+                                        </attribute>
+                                        <attribute sid="Reflection">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="Transparency">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RefractionIndex">
+                                            <float>1</float>
+                                        </attribute>
+                                        <attribute sid="Translucency">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="Normal">
+                                            <double3>0 0 0</double3>
+                                        </attribute>
+                                        <attribute sid="BumpHeight">
+                                            <float>1</float>
+                                        </attribute>
+                                        <attribute sid="Bump">
+                                            <double3>1 0 0</double3>
+                                        </attribute>
+                                        <attribute sid="ColorHighlights">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ColorFilter">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="AdditiveTransparency">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="DiffuseSharpness">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ReflectionOptions">
+                                            <int>1</int>
+                                        </attribute>
+                                        <attribute sid="ReflectionMap">
+                                            <WeakRef></WeakRef>
+                                        </attribute>
+                                        <attribute sid="ReflectionImageSeamAngle">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ReflectionBlurring">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ReflectionSamples">
+                                            <int>8</int>
+                                        </attribute>
+                                        <attribute sid="RefractionOptions">
+                                            <int>1</int>
+                                        </attribute>
+                                        <attribute sid="RefractionMap">
+                                            <WeakRef></WeakRef>
+                                        </attribute>
+                                        <attribute sid="RefractionImageSeamAngle">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RefractionBlurring">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RefractionSamples">
+                                            <int>8</int>
+                                        </attribute>
+                                        <attribute sid="LWSURFChunk">
+                                            <string></string>
+                                        </attribute>
+                                        <children>
+                                            <component_ref target="comp_ImageSampler"/>
+                                        </children>
+                                    </component>
+                                </connected_component>
+                            </attribute>
+                            <children>
+                                <component_ref target="comp_LegacyLightWave_2"/>
+                            </children>
+                        </component>
+                    </shaders>
+                </technique>
+            </extra>
+        </effect>
+    </library_effects>
+    <library_geometries>
+        <geometry id="Empty_Mesh_lib" name="">
+            <mesh>
+                <source id="Empty_Mesh_positions" name="position">
+                    <float_array id="Empty_Mesh_positions_array" count="120">-0.439737 -1.36843 0.0508 -0.143933 -1.36843 0.0508 0.143933 -1.36843 0.0508 0.439737 -1.36843 0.0508 0.439737 -1.36843 -0.0508 0.143933 -1.36843 -0.0508 -0.143933 -1.36843 -0.0508 -0.439737 -1.36843 -0.0508 -0.439737 -1.16205 0.0508 -0.143933 -1.16205 0.0508 0.143933 -1.16205 0.0508 0.439737 -1.16205 0.0508 0.439737 -1.16205 -0.0508 0.143933 -1.16205 -0.0508 -0.143933 -1.16205 -0.0508 -0.439737 -1.16205 -0.0508 -0.439737 -0.955675 0.0508 -0.143933 -0.955675 0.0508 0.143933 -0.955675 0.0508 0.439737 -0.955675 0.0508 0.439737 -0.955675 -0.0508 0.143933 -0.955675 -0.0508 -0.143933 -0.955675 -0.0508 -0.439737 -0.955675 -0.0508 -0.439737 1.16205 0.0508 -0.143933 1.16205 0.0508 0.143933 1.16205 0.0508 0.439737 1.16205 0.0508 0.439737 1.16205 -0.0508 0.143933 1.16205 -0.0508 -0.143933 1.16205 -0.0508 -0.439737 1.16205 -0.0508 -0.439737 1.36843 0.0508 -0.143933 1.36843 0.0508 0.143933 1.36843 0.0508 0.439737 1.36843 0.0508 0.439737 1.36843 -0.0508 0.143933 1.36843 -0.0508 -0.143933 1.36843 -0.0508 -0.439737 1.36843 -0.0508 </float_array>
+                    <technique_common>
+                        <accessor count="40" offset="0" source="#Empty_Mesh_positions_array" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="Texture" name="uvmap">
+                    <float_array id="Texture_array" count="194">0 0 
+0.576007 0.0912698 0.653009 0.0912698 0.653009 0.0515873 0.576007 0.0515873 0.653009 0.0912698 0.727944 0.0912698 0.727944 0.0515873 0.653009 0.0515873 0.727944 0.0912698 0.804945 0.0912698 0.804945 0.0515873 0.727944 0.0515873 0.129199 0.00470312 0.129199 0.0614461 0.0521978 0.0614461 0.0521978 0.00470312 0.204134 0.00470312 0.204134 0.0614461 0.281136 0.00470312 0.281136 0.0614461 0.0436508 0.00470312 0.0436508 0.0614461 0.00396825 0.0614461 0.00396825 0.00470312 0.489849 0.0614461 0.56685 0.0614461 0.56685 0.00470312 0.489849 0.00470312 0.414913 0.0614461 0.414913 0.00470312 0.337912 0.0614461 0.337912 0.00470312 0.289683 0.0614461 0.329365 0.0614461 0.329365 0.00470312 0.289683 0.00470312 0.129199 0.118189 0.0521978 0.118189 0.204134 0.118189 0.281136 0.0614461 0.281136 0.118189 0.0436508 0.118189 0.00396825 0.118189 0.489849 0.118189 0.56685 0.118189 0.56685 0.0614461 0.414913 0.118189 0.337912 0.118189 0.337912 0.0614461 0.289683 0.118189 
+0.329365 0.118189 0.289683 0.0614461 0.129199 0.700459 0.0521978 0.700459 0.204134 0.700459 0.281136 0.118189 0.281136 0.700459 0.0436508 0.700459 0.00396825 0.700459 0.489849 0.700459 0.56685 0.700459 0.56685 0.118189 0.414913 0.700459 0.337912 0.700459 0.337912 0.118189 0.289683 0.700459 0.329365 0.700459 0.289683 0.118189 0.129199 0.757202 0.0521978 0.757202 0.204134 0.757202 0.281136 0.700459 0.281136 0.757202 0.0436508 0.757202 0.00396825 0.757202 0.489849 0.757202 0.56685 0.757202 0.56685 0.700459 0.414913 0.757202 0.337912 0.757202 0.337912 0.700459 0.289683 0.757202 0.329365 0.757202 0.289683 0.700459 0.653009 0.00396825 0.653009 0.0436508 0.576007 0.0436508 0.576007 0.00396825 0.727944 0.00396825 0.727944 0.0436508 0.653009 0.0436508 0.653009 0.00396825 0.804945 0.00396825 0.804945 0.0436508 0.727944 0.0436508 0.727944 0.00396825 </float_array>
+                    <technique_common>
+                        <accessor count="97" offset="0" source="#Texture_array" stride="2">
+                            <param name="S" type="float"/>
+                            <param name="T" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Empty_Mesh_vertices">
+                    <input semantic="POSITION" source="#Empty_Mesh_positions"/>
+                </vertices>
+                <polylist count="38" material="Brick">
+                    <input offset="0" semantic="VERTEX" source="#Empty_Mesh_vertices"/>
+                    <input offset="1" semantic="TEXCOORD" source="#Texture" set="0"/>
+                    <vcount>4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 </vcount>
+                    <p>7 1 6 2 1 3 0 4 6 5 5 6 2 7 1 8 5 9 4 10 3 11 2 12 1 13 9 14 8 15 0 16 2 17 10 18 9 14 1 13 3 19 11 20 10 18 2 17 4 21 12 22 11 23 3 24 13 25 12 26 4 27 5 28 14 29 13 25 5 28 6 30 15 31 14 29 6 30 7 32 8 33 15 34 7 35 0 36 9 14 17 37 16 38 8 15 10 18 18 39 17 37 9 14 11 40 19 41 18 39 10 18 12 22 20 42 19 43 11 23 21 44 20 45 12 46 13 25 22 47 21 44 13 25 14 29 23 48 22 47 14 29 15 49 16 50 23 51 15 34 8 52 17 37 25 53 24 54 16 38 18 39 26 55 25 53 17 37 19 56 27 57 26 55 18 39 20 42 28 58 27 59 19 43 29 60 28 61 20 62 21 44 30 63 29 60 21 44 22 47 31 64 30 63 22 47 23 65 24 66 31 67 23 51 16 68 25 53 33 69 32 70 24 54 26 55 34 71 33 69 25 53 27 72 35 73 34 71 26 55 28 58 36 74 35 75 27 59 37 76 36 77 28 78 29 60 38 79 37 76 29 60 30 63 39 80 38 79 30 63 31 81 32 82 39 83 31 67 24 84 33 85 38 86 39 87 32 88 34 89 37 90 38 91 33 92 35 93 36 94 37 95 34 96 </p>
+                </polylist>
+                <extra>
+                    <technique profile="LWCORE">
+                        <hard_edges/>
+                    </technique>
+                </extra>
+            </mesh>
+        </geometry>
+    </library_geometries>
+    <library_controllers/>
+    <library_visual_scenes>
+        <visual_scene id="VisualSceneNode" name="Scene">
+            <node id="Empty_Mesh" name="Empty_Mesh">
+                <translate sid="translate">0 0 0</translate>
+                <translate sid="rotatePivotCompensation">0 0 0</translate>
+                <translate sid="rotatePivot">0 0 0</translate>
+                <rotate sid="rotatePivotOffsetY">0 1 0 0</rotate>
+                <rotate sid="rotatePivotOffsetX">1 0 0 0</rotate>
+                <rotate sid="rotatePivotOffsetZ">0 0 1 0</rotate>
+                <rotate sid="rotateY">0 1 0 0</rotate>
+                <rotate sid="rotateX">1 0 0 0</rotate>
+                <rotate sid="rotateZ">0 0 1 0</rotate>
+                <rotate sid="rotatePivotAxisY">0 1 0 0</rotate>
+                <rotate sid="rotatePivotAxisX">1 0 0 0</rotate>
+                <rotate sid="rotatePivotAxisZ">0 0 1 0</rotate>
+                <translate sid="rotatePivotInverse">0 0 0</translate>
+                <translate sid="scalePivotCompensation">0 0 0</translate>
+                <translate sid="scalePivot">0 0 0</translate>
+                <scale sid="scale">1 1 1</scale>
+                <translate sid="scalePivotInverse">0 0 0</translate>
+                <instance_geometry url="#Empty_Mesh_lib">
+                    <bind_material>
+                        <technique_common>
+                            <instance_material symbol="Default" target="#Default"/>
+                            <instance_material symbol="Brick" target="#Brick">
+                                <bind_vertex_input semantic="TEX0" input_semantic="TEXCOORD" input_set="0"/>
+                            </instance_material>
+                        </technique_common>
+                    </bind_material>
+                </instance_geometry>
+                <extra>
+                    <technique profile="LWCORE">
+                        <component id="comp_SceneObject" type="SceneObject">
+                            <attribute sid="Name" dynamic="custom">
+                                <description>
+                                    <parameter_type value="string"/>
+                                    <is_input value="true"/>
+                                </description>
+                                <string>Empty_Mesh</string>
+                            </attribute>
+                            <attribute sid="Self" dynamic="custom">
+                                <description>
+                                    <parameter_type value="WeakRef"/>
+                                    <is_input value="false"/>
+                                </description>
+                            </attribute>
+                            <attribute sid="Name_1">
+                                <string></string>
+                            </attribute>
+                            <attribute sid="Transform">
+                                <float4x4>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</float4x4>
+                                <connected_component target_attribute="Transform">
+                                    <component id="comp_FKMotionController" type="FKMotionController">
+                                        <attribute sid="Name">
+                                            <string></string>
+                                        </attribute>
+                                        <attribute sid="TranslateX">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="TranslateY">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="TranslateZ">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotateX">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotateY">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotateZ">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotateOrder">
+                                            <int>3</int>
+                                        </attribute>
+                                        <attribute sid="ScaleX">
+                                            <float>1</float>
+                                        </attribute>
+                                        <attribute sid="ScaleY">
+                                            <float>1</float>
+                                        </attribute>
+                                        <attribute sid="ScaleZ">
+                                            <float>1</float>
+                                        </attribute>
+                                        <attribute sid="RotateAxisX">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotateAxisY">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotateAxisZ">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotateAxisOrder">
+                                            <int>3</int>
+                                        </attribute>
+                                        <attribute sid="RotateOffsetX">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotateOffsetY">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotateOffsetZ">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotateOffsetOrder">
+                                            <int>3</int>
+                                        </attribute>
+                                        <attribute sid="RotatePivotPositionX">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotatePivotPositionY">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotatePivotPositionZ">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ScalePivotPositionX">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ScalePivotPositionY">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ScalePivotPositionZ">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotatePivotCompensationX">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotatePivotCompensationY">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="RotatePivotCompensationZ">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ScalePivotCompensationX">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ScalePivotCompensationY">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="ScalePivotCompensationZ">
+                                            <float>0</float>
+                                        </attribute>
+                                        <attribute sid="UseKeys">
+                                            <bool>true</bool>
+                                        </attribute>
+                                    </component>
+                                </connected_component>
+                            </attribute>
+                            <attribute sid="MotionParent">
+                                <StrongRef>/Root/Scene/SceneItems/</StrongRef>
+                            </attribute>
+                            <attribute sid="visible">
+                                <bool>true</bool>
+                            </attribute>
+                            <attribute sid="frozen">
+                                <bool>false</bool>
+                            </attribute>
+                            <attribute sid="layer">
+                                <StrongRef></StrongRef>
+                            </attribute>
+                            <attribute sid="wireframe">
+                                <bool>true</bool>
+                            </attribute>
+                            <attribute sid="solid">
+                                <bool>true</bool>
+                            </attribute>
+                            <attribute sid="showrotatepivot">
+                                <bool>false</bool>
+                            </attribute>
+                            <attribute sid="showscalepivot">
+                                <bool>false</bool>
+                            </attribute>
+                            <attribute sid="SkinPose">
+                                <float4x4>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</float4x4>
+                            </attribute>
+                            <attribute sid="SubdLevel">
+                                <int>3</int>
+                            </attribute>
+                            <attribute sid="ShadowOffset">
+                                <float>0</float>
+                            </attribute>
+                            <attribute sid="VertexSmoothing">
+                                <float>40</float>
+                            </attribute>
+                            <attribute sid="OriginalLocation">
+                                <string></string>
+                            </attribute>
+                            <attribute sid="DoubleSided">
+                                <bool>false</bool>
+                            </attribute>
+                        </component>
+                    </technique>
+                </extra>
+            </node>
+            <extra>
+                <technique profile="LWCORE">
+                    <construction_layers active_layer="Default_Layer">
+                        <construction_layer>
+                            <component id="comp_ConstructionLayer" type="ConstructionLayer">
+                                <attribute sid="Name" dynamic="custom">
+                                    <description>
+                                        <parameter_type value="string"/>
+                                        <is_input value="true"/>
+                                    </description>
+                                    <string>Default_Layer</string>
+                                </attribute>
+                                <attribute sid="Self" dynamic="custom">
+                                    <description>
+                                        <parameter_type value="WeakRef"/>
+                                        <is_input value="false"/>
+                                    </description>
+                                </attribute>
+                                <attribute sid="Name_1">
+                                    <string></string>
+                                </attribute>
+                                <attribute sid="visible">
+                                    <bool>true</bool>
+                                </attribute>
+                                <attribute sid="frozen">
+                                    <bool>false</bool>
+                                </attribute>
+                                <attribute sid="wireframe">
+                                    <bool>true</bool>
+                                </attribute>
+                                <attribute sid="solid">
+                                    <bool>true</bool>
+                                </attribute>
+                            </component>
+                            <item>/Grid/</item>
+                            <item>/Construction_Plane/</item>
+                            <item>/Directional_Light/</item>
+                            <item>/Perspective_Camera/</item>
+                        </construction_layer>
+                    </construction_layers>
+                    <time_operator>
+                        <component id="comp_SceneTime" type="SceneTime">
+                            <attribute sid="Name">
+                                <string></string>
+                            </attribute>
+                        </component>
+                    </time_operator>
+                    <dynamics_world/>
+                </technique>
+            </extra>
+        </visual_scene>
+    </library_visual_scenes>
+    <scene>
+        <instance_visual_scene url="#VisualSceneNode"/>
+    </scene>
+</COLLADA>

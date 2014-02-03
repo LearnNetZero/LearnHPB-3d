@@ -64069,7 +64069,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000151 Objects/Cross Sections/Vapor Air Barrier.lwo
+LoadObjectLayer 1 10000151 Objects/Cross Sections/VaporAirBarrier.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0

@@ -236,7 +236,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000001 /Users/SuPerB-Server/Desktop/LearnHPB-assets/Lightwave/Individual Objects/CutAways/Vapor Air Barrier.lwo
+LoadObjectLayer 1 10000001 /Users/SuPerB-Server/Desktop/LearnHPB-assets/Lightwave/Individual Objects/CutAways/VaporAirBarrier.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0

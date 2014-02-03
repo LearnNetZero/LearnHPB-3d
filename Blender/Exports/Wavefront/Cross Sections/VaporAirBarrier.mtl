@@ -1,0 +1,11 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Vapor_Membrane
+Ns 578.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.989825 0.922521 0.244052
+Ks 0.090000 0.090000 0.090000
+Ni 1.000000
+d 1.000000
+illum 2
