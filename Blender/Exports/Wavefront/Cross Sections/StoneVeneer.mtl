@@ -1,0 +1,11 @@
+# Blender MTL File: 'StoneVeneer.blend'
+# Material Count: 1
+
+newmtl Stone
+Ns 54.901961
+Ka 0.000000 0.000000 0.000000
+Kd 0.656977 0.644179 0.627926
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2

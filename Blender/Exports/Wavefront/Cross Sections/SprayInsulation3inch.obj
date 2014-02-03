@@ -1,0 +1,20 @@
+# Blender v2.69 (sub 0) OBJ File: 'SprayInsulation3inch.blend'
+# www.blender.org
+mtllib SprayInsulation3inch.mtl
+o SprayInsulation3inch
+v -0.439816 -1.368425 0.038100
+v -0.439816 1.368425 0.038100
+v 0.439816 1.368425 0.038100
+v 0.439816 -1.368425 0.038100
+v -0.439816 -1.368425 -0.038100
+v -0.439816 1.368425 -0.038100
+v 0.439816 1.368425 -0.038100
+v 0.439816 -1.368425 -0.038100
+usemtl Spray_Insulation
+s off
+f 1 4 3 2
+f 1 2 6 5
+f 3 7 6 2
+f 8 7 3 4
+f 1 5 8 4
+f 6 7 8 5
