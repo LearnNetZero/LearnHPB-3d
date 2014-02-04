@@ -14326,7 +14326,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -7.6170506477355948 0 0 0 0 0 0 0 0
+  Key -7.6170506477355939 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -19069,7 +19069,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.84670162200927723 0 0 0 0 0 0 0 0
+  Key -0.84670162200927712 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -20965,7 +20965,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -9.1688594818115217 0 0 0 0 0 0 0 0
+  Key -9.1688594818115199 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -52096,7 +52096,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.84670162200927723 0 0 0 0 0 0 0 0
+  Key -0.84670162200927712 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -55319,7 +55319,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.43706142902374262 0 0 0 0 0 0 0 0
+  Key 0.43706142902374256 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -56267,13 +56267,13 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.41534742712974554 0 0 0 0 0 0 0 0
+  Key 0.41534742712974559 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   1
-  Key -5.9498300552368155 0 0 0 0 0 0 0 0
+  Key -5.9498300552368164 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -60620,7 +60620,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 9.0616712570190447 0 0 0 0 0 -0.052144389507199233 0 0
+  Key 9.061671257019043 0 0 0 0 0 -0.052144389507199233 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -61581,7 +61581,7 @@ Channel 2
 { Envelope
   2
   Key 0.701551914215088 0 0 0 0 0 0 0 0
-  Key 9.0616712570190447 0.033333333333333333 0 0 0 0 -0.052144389507199233 0 0
+  Key 9.061671257019043 0.033333333333333333 0 0 0 0 -0.052144389507199233 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -62541,7 +62541,7 @@ Channel 0
 { Envelope
   2
   Key -7.0759353637695313 0 0 0 0 0 -0.052075346639333685 0 0
-  Key 27.137203216552731 0.033333333333333333 0 0 0 0 0.050119447314049603 0 0
+  Key 27.137203216552727 0.033333333333333333 0 0 0 0 0.050119447314049603 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -62733,7 +62733,7 @@ Channel 0
 { Envelope
   2
   Key -6.970916748046875 0 0 0 0 0 -0.052075346639333685 0 0
-  Key 27.242221832275398 0.033333333333333333 0 0 0 0 0.050119447314049603 0 0
+  Key 27.242221832275401 0.033333333333333333 0 0 0 0 0.050119447314049603 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -62925,7 +62925,7 @@ Channel 0
 { Envelope
   2
   Key -6.970916748046875 0 0 0 0 0 -0.052075346639333685 0 0
-  Key 27.242221832275398 0.033333333333333333 0 0 0 0 0.050119447314049603 0 0
+  Key 27.242221832275401 0.033333333333333333 0 0 0 0 0.050119447314049603 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -63129,7 +63129,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 9.0616712570190447 0 0 0 0 0 -0.052144389507199233 0 0
+  Key 9.061671257019043 0 0 0 0 0 -0.052144389507199233 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -63881,7 +63881,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000150 Objects/Cross Sections/StoneVeneer.lwo
+LoadObjectLayer 1 10000150 Objects/CrossSections/StoneVeneer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -64069,7 +64069,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000151 Objects/Cross Sections/VaporAirBarrier.lwo
+LoadObjectLayer 1 10000151 Objects/CrossSections/VaporAirBarrier.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -64257,7 +64257,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000152 Objects/Cross Sections/RigidExInsulation1inch.lwo
+LoadObjectLayer 1 10000152 Objects/CrossSections/RigidExInsulation1inch.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -64445,7 +64445,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000015a Objects/Cross Sections/SteelStuds.lwo
+LoadObjectLayer 1 1000015a Objects/CrossSections/SteelStuds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -64633,7 +64633,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000015e Objects/Cross Sections/InteriorInsulation.lwo
+LoadObjectLayer 1 1000015e Objects/CrossSections/InteriorInsulation.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -64821,7 +64821,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000015f Objects/Cross Sections/GypsumBoard.lwo
+LoadObjectLayer 1 1000015f Objects/CrossSections/InteriorGypsumBoard.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -65009,7 +65009,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000160 Objects/Cross Sections/ExteriorGypsum.lwo
+LoadObjectLayer 1 10000160 Objects/CrossSections/ExteriorGypsumBoard.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -65024,7 +65024,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key -0.73807567358016957 0 0 0 0 0 0 0 0
+  Key -0.73807567358016946 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -65197,7 +65197,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000153 Objects/Avatars/MaleSitting1.lwo
+LoadObjectLayer 1 10000153 Objects/Avatars/MaleSitting.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -65385,7 +65385,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000154 Objects/Avatars/MaleSitting1.lwo
+LoadObjectLayer 1 10000154 Objects/Avatars/MaleSitting.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -65574,7 +65574,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000155 Objects/Avatars/MaleSitting1.lwo
+LoadObjectLayer 1 10000155 Objects/Avatars/MaleSitting.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -71608,7 +71608,7 @@ Channel 3
 Channel 4
 { Envelope
   1
-  Key 0.029670588672161092 0 0 0 0 0 0 0 0
+  Key 0.029670588672161088 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 5
@@ -71790,9 +71790,9 @@ Channel 3
   5
   Key 0.83950364589691173 0 0 0 0 0 0 -0.35076279422339934 0
   Key 0.49043747782707209 2 0 0 0 0 -1.3997542858123777 -1.3997542858123777 0
-  Key -1.9582595825195317 4 0 0 0 0 -1.2243485301733017 -1.2243485301733017 0
-  Key -1.9582595825195317 6 0 0 0 0 0 0 0
-  Key -1.9582595825195317 8 0 0 0 0 0 0 0
+  Key -1.9582595825195319 4 0 0 0 0 -1.2243485301733017 -1.2243485301733017 0
+  Key -1.9582595825195319 6 0 0 0 0 0 0 0
+  Key -1.9582595825195319 8 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
