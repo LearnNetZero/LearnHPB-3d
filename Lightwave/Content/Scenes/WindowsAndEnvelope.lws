@@ -52,7 +52,7 @@ ColorSpaceCorrectOpenGL 0
 ColorSpaceAffectPicker 0
 FirstBackgroundImageSyncFrame 0
 
-LoadObjectLayer 1 10000000 Objects/Envelopes/ForPublishing/WWRBaseline-9ft.lwo
+AddNullObject 10000000 WWRBaseline-9ft
 ChangeObject 0
 ShowObject 7 0
 Group 0
@@ -240,7 +240,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000001 Objects/Windows/WWRBaseline-9ftWindow.lwo
+LoadObjectLayer 1 10000001 Objects/Windows/ForPublishing/WWRBaseline-9ftWindow.lwo
 ChangeObject 0
 ShowObject 7 0
 Group 0
