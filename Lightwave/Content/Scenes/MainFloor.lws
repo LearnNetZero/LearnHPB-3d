@@ -76,7 +76,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -10.670660972595215 0 0 0 0 0 0 0 0
+  Key -10.670660972595217 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -266,7 +266,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -8.8386316299438477 0 0 0 0 0 0 0 0
+  Key -8.8386316299438459 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -836,7 +836,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.0014313608407974245 0 0 0 0 0 0 0 0
+  Key -0.0014313608407974243 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -1596,7 +1596,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 10.670121192932129 0 0 0 0 0 0 0 0
+  Key 10.670121192932127 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -1774,7 +1774,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -12.191628456115723 0 0 0 0 0 0 0 0
+  Key -12.191628456115724 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -1964,7 +1964,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -12.191628456115723 0 0 0 0 0 0 0 0
+  Key -12.191628456115724 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -2154,7 +2154,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -12.191628456115723 0 0 0 0 0 0 0 0
+  Key -12.191628456115724 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -2344,7 +2344,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -12.191628456115723 0 0 0 0 0 0 0 0
+  Key -12.191628456115724 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -2534,7 +2534,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -12.191628456115723 0 0 0 0 0 0 0 0
+  Key -12.191628456115724 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -2724,7 +2724,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -12.191628456115723 0 0 0 0 0 0 0 0
+  Key -12.191628456115724 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -2914,7 +2914,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -12.191628456115723 0 0 0 0 0 0 0 0
+  Key -12.191628456115724 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -3104,7 +3104,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -12.191628456115723 0 0 0 0 0 0 0 0
+  Key -12.191628456115724 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -4826,7 +4826,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 10.670121192932129 0 0 0 0 0 0 0 0
+  Key 10.670121192932127 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -5586,7 +5586,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.0014313608407974245 0 0 0 0 0 0 0 0
+  Key -0.0014313608407974243 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -6156,7 +6156,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -8.8386316299438477 0 0 0 0 0 0 0 0
+  Key -8.8386316299438459 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -6346,7 +6346,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -10.670660972595215 0 0 0 0 0 0 0 0
+  Key -10.670660972595217 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -7854,7 +7854,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0.0016512870788574219 0 0 0 0 0 0 0 0
+  Key 0.0016512870788574221 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -8044,7 +8044,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0.0016512870788574219 0 0 0 0 0 0 0 0
+  Key 0.0016512870788574221 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -8234,7 +8234,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0.0016512870788574219 0 0 0 0 0 0 0 0
+  Key 0.0016512870788574221 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -9944,7 +9944,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 12.193943977355957 0 0 0 0 0 0 0 0
+  Key 12.193943977355955 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -10324,7 +10324,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 12.193943977355957 0 0 0 0 0 0 0 0
+  Key 12.193943977355955 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -10514,7 +10514,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 12.193943977355957 0 0 0 0 0 0 0 0
+  Key 12.193943977355955 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -10704,7 +10704,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 12.193943977355957 0 0 0 0 0 0 0 0
+  Key 12.193943977355955 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -10894,7 +10894,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 12.193943977355957 0 0 0 0 0 0 0 0
+  Key 12.193943977355955 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -11084,7 +11084,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 12.193943977355957 0 0 0 0 0 0 0 0
+  Key 12.193943977355955 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -11274,7 +11274,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 12.193943977355957 0 0 0 0 0 0 0 0
+  Key 12.193943977355955 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -12224,7 +12224,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -3.0484895706176762 0 0 0 0 0 0 0 0
+  Key -3.0484895706176758 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -12794,7 +12794,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.0077263712882995597 0 0 0 0 0 0 0 0
+  Key -0.0077263712882995588 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -13174,7 +13174,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 3.0445318222045898 0 0 0 0 0 0 0 0
+  Key 3.0445318222045894 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -13364,7 +13364,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 6.0990562438964835 0 0 0 0 0 0 0 0
+  Key 6.0990562438964844 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -13554,7 +13554,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 3.0370423793792716 0 0 0 0 0 0 0 0
+  Key 3.037042379379272 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -14326,7 +14326,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -7.6170506477355957 0 0 0 0 0 0 0 0
+  Key -7.6170506477355948 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -15253,7 +15253,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000051 Objects/Office/QuadDesk.lwo
+LoadObjectLayer 1 10000051 Objects/Furniture/QuadDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -15442,7 +15442,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000052 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000052 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -15463,7 +15463,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -15631,7 +15631,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000053 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000053 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -15653,7 +15653,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993532896041881 0 0 0 0 0 0 0 0
+  Key -0.74993532896041892 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -15821,7 +15821,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000054 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000054 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -16011,7 +16011,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000055 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000055 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -16033,7 +16033,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993586540222157 0 0 0 0 0 0 0 0
+  Key -0.74993586540222146 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -16201,7 +16201,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000056 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000056 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -16390,7 +16390,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000057 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000057 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -16580,7 +16580,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000058 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000058 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -16602,7 +16602,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -16770,7 +16770,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000059 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000059 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -17539,7 +17539,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.7394678592681883 0 0 0 0 0 0 0 0
+  Key 1.7394678592681885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -17719,7 +17719,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000b3 Objects/Office/ConfTable.lwo
+LoadObjectLayer 1 100000b3 Objects/Furniture/ConfTable.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -17908,7 +17908,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000b4 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000b4 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -17935,7 +17935,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -1.5655608177185059 0 0 0 0 0 0 0 0
+  Key -1.5655608177185061 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -18097,7 +18097,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000b5 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000b5 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -18125,7 +18125,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -1.5655608177185059 0 0 0 0 0 0 0 0
+  Key -1.5655608177185061 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -18287,7 +18287,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000b6 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000b6 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -18315,7 +18315,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -1.5655608177185059 0 0 0 0 0 0 0 0
+  Key -1.5655608177185061 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -18477,7 +18477,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000b8 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000b8 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -18667,7 +18667,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000b9 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000b9 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -18689,7 +18689,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.79831862449645963 0 0 0 0 0 0 0 0
+  Key -0.79831862449645952 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -18857,7 +18857,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000ba Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000ba Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -19047,7 +19047,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000bb Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000bb Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -19069,7 +19069,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.84670162200927734 0 0 0 0 0 0 0 0
+  Key -0.84670162200927723 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -19237,7 +19237,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000b7 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000b7 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -19247,7 +19247,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -1.4253969192504883 0 0 0 0 0 0 0 0
+  Key -1.4253969192504885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -19265,7 +19265,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -1.5655608177185059 0 0 0 0 0 0 0 0
+  Key -1.5655608177185061 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -19427,7 +19427,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000bd Objects/Office/DualDesk.lwo
+LoadObjectLayer 1 100000bd Objects/Furniture/DualDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -19616,7 +19616,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000be Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000be Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -19834,7 +19834,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -5.4209933280944824 0 0 0 0 0 0 0 0
+  Key -5.4209933280944815 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -19996,7 +19996,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000c0 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000c0 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -20186,7 +20186,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000c1 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000c1 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -20566,7 +20566,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000c3 Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000c3 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -20965,7 +20965,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -9.1688594818115199 0 0 0 0 0 0 0 0
+  Key -9.1688594818115217 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -21319,7 +21319,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000060 Objects/Office/QuadDesk.lwo
+LoadObjectLayer 1 10000060 Objects/Furniture/QuadDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -21509,7 +21509,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000061 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000061 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -21531,7 +21531,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -21699,7 +21699,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000062 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000062 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -21721,7 +21721,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993532896041881 0 0 0 0 0 0 0 0
+  Key -0.74993532896041892 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -21889,7 +21889,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000063 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000063 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -22079,7 +22079,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000064 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000064 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -22101,7 +22101,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993586540222157 0 0 0 0 0 0 0 0
+  Key -0.74993586540222146 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -22269,7 +22269,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000065 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000065 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -22459,7 +22459,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000066 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000066 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -22649,7 +22649,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000067 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000067 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -22671,7 +22671,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -22839,7 +22839,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000068 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000068 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -23609,7 +23609,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.7394678592681883 0 0 0 0 0 0 0 0
+  Key 1.7394678592681885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -23977,7 +23977,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000006e Objects/Office/QuadDesk.lwo
+LoadObjectLayer 1 1000006e Objects/Furniture/QuadDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -24167,7 +24167,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000006f Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000006f Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -24189,7 +24189,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -24357,7 +24357,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000070 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000070 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -24379,7 +24379,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993532896041881 0 0 0 0 0 0 0 0
+  Key -0.74993532896041892 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -24547,7 +24547,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000071 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000071 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -24737,7 +24737,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000072 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000072 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -24759,7 +24759,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993586540222157 0 0 0 0 0 0 0 0
+  Key -0.74993586540222146 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -24927,7 +24927,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000073 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000073 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -25117,7 +25117,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000074 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000074 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -25307,7 +25307,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000075 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000075 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -25329,7 +25329,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -25497,7 +25497,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000076 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000076 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -26267,7 +26267,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.7394678592681883 0 0 0 0 0 0 0 0
+  Key 1.7394678592681885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -26635,7 +26635,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000007c Objects/Office/QuadDesk.lwo
+LoadObjectLayer 1 1000007c Objects/Furniture/QuadDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -26825,7 +26825,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000007d Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000007d Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -26847,7 +26847,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -27015,7 +27015,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000007e Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000007e Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -27037,7 +27037,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993532896041881 0 0 0 0 0 0 0 0
+  Key -0.74993532896041892 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -27205,7 +27205,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000007f Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000007f Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -27395,7 +27395,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000080 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000080 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -27417,7 +27417,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993586540222157 0 0 0 0 0 0 0 0
+  Key -0.74993586540222146 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -27585,7 +27585,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000081 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000081 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -27775,7 +27775,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000082 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000082 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -27965,7 +27965,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000083 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000083 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -27987,7 +27987,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -28155,7 +28155,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000084 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000084 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -28925,7 +28925,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.7394678592681883 0 0 0 0 0 0 0 0
+  Key 1.7394678592681885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -29127,7 +29127,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -9.667128324508667e-006 0 0 0 0 0 0 0 0
+  Key -9.6671283245086687e-006 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -29293,7 +29293,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000008a Objects/Office/QuadDesk.lwo
+LoadObjectLayer 1 1000008a Objects/Furniture/QuadDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -29483,7 +29483,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000008b Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000008b Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -29505,7 +29505,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -29673,7 +29673,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000008c Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000008c Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -29695,7 +29695,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993532896041881 0 0 0 0 0 0 0 0
+  Key -0.74993532896041892 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -29863,7 +29863,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000008d Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000008d Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -30053,7 +30053,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000008e Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000008e Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -30075,7 +30075,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993586540222157 0 0 0 0 0 0 0 0
+  Key -0.74993586540222146 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -30243,7 +30243,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000008f Objects/Office/Computer.lwo
+LoadObjectLayer 1 1000008f Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -30433,7 +30433,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000090 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000090 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -30623,7 +30623,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000091 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000091 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -30645,7 +30645,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -30813,7 +30813,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000092 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000092 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -31583,7 +31583,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.7394678592681883 0 0 0 0 0 0 0 0
+  Key 1.7394678592681885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -31773,7 +31773,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 10.195390701293945 0 0 0 0 0 0 0 0
+  Key 10.195390701293944 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -31951,7 +31951,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000098 Objects/Office/QuadDesk.lwo
+LoadObjectLayer 1 10000098 Objects/Furniture/QuadDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -32141,7 +32141,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000099 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000099 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -32163,7 +32163,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -32331,7 +32331,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000009a Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000009a Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -32353,7 +32353,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993532896041881 0 0 0 0 0 0 0 0
+  Key -0.74993532896041892 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -32521,7 +32521,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000009b Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000009b Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -32711,7 +32711,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000009c Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000009c Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -32733,7 +32733,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993586540222157 0 0 0 0 0 0 0 0
+  Key -0.74993586540222146 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -32901,7 +32901,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000009d Objects/Office/Computer.lwo
+LoadObjectLayer 1 1000009d Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -33091,7 +33091,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000009e Objects/Office/Computer.lwo
+LoadObjectLayer 1 1000009e Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -33281,7 +33281,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000009f Objects/Office/Computer.lwo
+LoadObjectLayer 1 1000009f Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -33303,7 +33303,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -33471,7 +33471,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000a0 Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000a0 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -34241,7 +34241,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.7394678592681883 0 0 0 0 0 0 0 0
+  Key 1.7394678592681885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -34431,7 +34431,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 10.195390701293945 0 0 0 0 0 0 0 0
+  Key 10.195390701293944 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -34609,7 +34609,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000a6 Objects/Office/QuadDesk.lwo
+LoadObjectLayer 1 100000a6 Objects/Furniture/QuadDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -34799,7 +34799,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000a7 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000a7 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -34821,7 +34821,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -34989,7 +34989,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000a8 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000a8 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -35011,7 +35011,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993532896041881 0 0 0 0 0 0 0 0
+  Key -0.74993532896041892 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -35179,7 +35179,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000a9 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000a9 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -35369,7 +35369,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000aa Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000aa Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -35391,7 +35391,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993586540222157 0 0 0 0 0 0 0 0
+  Key -0.74993586540222146 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -35559,7 +35559,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000ab Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000ab Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -35749,7 +35749,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000ac Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000ac Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -35939,7 +35939,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000ad Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000ad Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -35961,7 +35961,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -36129,7 +36129,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000ae Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000ae Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -36899,7 +36899,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.7394678592681883 0 0 0 0 0 0 0 0
+  Key 1.7394678592681885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -37089,7 +37089,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 10.195390701293945 0 0 0 0 0 0 0 0
+  Key 10.195390701293944 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -37267,7 +37267,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000de Objects/Office/QuadDesk.lwo
+LoadObjectLayer 1 100000de Objects/Furniture/QuadDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -37457,7 +37457,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000df Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000df Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -37479,7 +37479,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -37647,7 +37647,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000e0 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000e0 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -37669,7 +37669,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993532896041881 0 0 0 0 0 0 0 0
+  Key -0.74993532896041892 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -37837,7 +37837,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000e1 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000e1 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -38027,7 +38027,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000e2 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000e2 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -38049,7 +38049,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993586540222157 0 0 0 0 0 0 0 0
+  Key -0.74993586540222146 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -38217,7 +38217,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000e3 Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000e3 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -38407,7 +38407,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000e4 Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000e4 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -38597,7 +38597,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000e5 Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000e5 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -38619,7 +38619,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -38787,7 +38787,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000e6 Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000e6 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -39557,7 +39557,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.7394678592681883 0 0 0 0 0 0 0 0
+  Key 1.7394678592681885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -39747,7 +39747,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 10.195390701293945 0 0 0 0 0 0 0 0
+  Key 10.195390701293944 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -39759,7 +39759,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 9.1927433013916016 0 0 0 0 0 0 0 0
+  Key 9.1927433013915998 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -39925,7 +39925,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000ec Objects/Office/QuadDesk.lwo
+LoadObjectLayer 1 100000ec Objects/Furniture/QuadDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -40115,7 +40115,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000ed Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000ed Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -40137,7 +40137,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -40305,7 +40305,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000ee Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000ee Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -40327,7 +40327,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993532896041881 0 0 0 0 0 0 0 0
+  Key -0.74993532896041892 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -40495,7 +40495,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000ef Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000ef Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -40685,7 +40685,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000f0 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000f0 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -40707,7 +40707,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993586540222157 0 0 0 0 0 0 0 0
+  Key -0.74993586540222146 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -40875,7 +40875,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000f1 Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000f1 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -41065,7 +41065,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000f2 Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000f2 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -41255,7 +41255,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000f3 Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000f3 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -41277,7 +41277,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -41445,7 +41445,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000f4 Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000f4 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -42215,7 +42215,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.7394678592681883 0 0 0 0 0 0 0 0
+  Key 1.7394678592681885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -42417,7 +42417,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 9.1927433013916016 0 0 0 0 0 0 0 0
+  Key 9.1927433013915998 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -42583,7 +42583,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000fa Objects/Office/QuadDesk.lwo
+LoadObjectLayer 1 100000fa Objects/Furniture/QuadDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -42773,7 +42773,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000fb Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000fb Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -42795,7 +42795,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -42963,7 +42963,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000fc Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000fc Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -42985,7 +42985,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993532896041881 0 0 0 0 0 0 0 0
+  Key -0.74993532896041892 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -43153,7 +43153,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000fd Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000fd Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -43343,7 +43343,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000fe Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000fe Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -43365,7 +43365,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993586540222157 0 0 0 0 0 0 0 0
+  Key -0.74993586540222146 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -43533,7 +43533,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000ff Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000ff Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -43723,7 +43723,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000100 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000100 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -43913,7 +43913,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000101 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000101 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -43935,7 +43935,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -44103,7 +44103,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000102 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000102 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -44873,7 +44873,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.7394678592681883 0 0 0 0 0 0 0 0
+  Key 1.7394678592681885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -45075,7 +45075,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 9.1927433013916016 0 0 0 0 0 0 0 0
+  Key 9.1927433013915998 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -45241,7 +45241,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000108 Objects/Office/QuadDesk.lwo
+LoadObjectLayer 1 10000108 Objects/Furniture/QuadDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -45431,7 +45431,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000109 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000109 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -45453,7 +45453,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -45621,7 +45621,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000010a Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000010a Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -45643,7 +45643,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993532896041881 0 0 0 0 0 0 0 0
+  Key -0.74993532896041892 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -45811,7 +45811,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000010b Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000010b Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -46001,7 +46001,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000010c Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000010c Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -46023,7 +46023,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993586540222157 0 0 0 0 0 0 0 0
+  Key -0.74993586540222146 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -46191,7 +46191,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000010d Objects/Office/Computer.lwo
+LoadObjectLayer 1 1000010d Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -46381,7 +46381,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000010e Objects/Office/Computer.lwo
+LoadObjectLayer 1 1000010e Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -46571,7 +46571,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000010f Objects/Office/Computer.lwo
+LoadObjectLayer 1 1000010f Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -46593,7 +46593,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -46761,7 +46761,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000110 Objects/Office/Computer.lwo
+LoadObjectLayer 1 10000110 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -47531,7 +47531,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.7394678592681883 0 0 0 0 0 0 0 0
+  Key 1.7394678592681885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -47899,7 +47899,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000116 Objects/Office/QuadDesk.lwo
+LoadObjectLayer 1 10000116 Objects/Furniture/QuadDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -48089,7 +48089,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000117 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000117 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -48111,7 +48111,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -48279,7 +48279,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000118 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000118 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -48301,7 +48301,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993532896041881 0 0 0 0 0 0 0 0
+  Key -0.74993532896041892 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -48469,7 +48469,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000119 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000119 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -48659,7 +48659,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000011a Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000011a Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -48681,7 +48681,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.74993586540222157 0 0 0 0 0 0 0 0
+  Key -0.74993586540222146 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -48849,7 +48849,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000011b Objects/Office/Computer.lwo
+LoadObjectLayer 1 1000011b Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -49039,7 +49039,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000011c Objects/Office/Computer.lwo
+LoadObjectLayer 1 1000011c Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -49229,7 +49229,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000011d Objects/Office/Computer.lwo
+LoadObjectLayer 1 1000011d Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -49251,7 +49251,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.72574436664581321 0 0 0 0 0 0 0 0
+  Key 0.7257443666458131 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -49419,7 +49419,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000011e Objects/Office/Computer.lwo
+LoadObjectLayer 1 1000011e Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -50189,7 +50189,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.7394678592681883 0 0 0 0 0 0 0 0
+  Key 1.7394678592681885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -50566,7 +50566,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 10.074554443359375 0 0 0 0 0 0 0 0
+  Key 10.074554443359377 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -50744,7 +50744,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000124 Objects/Office/ConfTable.lwo
+LoadObjectLayer 1 10000124 Objects/Furniture/ConfTable.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -50934,7 +50934,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000125 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000125 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -50962,7 +50962,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -1.5655608177185059 0 0 0 0 0 0 0 0
+  Key -1.5655608177185061 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -51124,7 +51124,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000126 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000126 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -51152,7 +51152,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -1.5655608177185059 0 0 0 0 0 0 0 0
+  Key -1.5655608177185061 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -51314,7 +51314,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000127 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000127 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -51342,7 +51342,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -1.5655608177185059 0 0 0 0 0 0 0 0
+  Key -1.5655608177185061 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -51504,7 +51504,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000128 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000128 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -51694,7 +51694,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000129 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000129 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -51716,7 +51716,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.79831862449645963 0 0 0 0 0 0 0 0
+  Key -0.79831862449645952 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -51884,7 +51884,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000012a Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000012a Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -52074,7 +52074,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000012b Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000012b Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -52096,7 +52096,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -0.84670162200927734 0 0 0 0 0 0 0 0
+  Key -0.84670162200927723 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -52264,7 +52264,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000012c Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000012c Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -52274,7 +52274,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -1.4253969192504883 0 0 0 0 0 0 0 0
+  Key -1.4253969192504885 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -52292,7 +52292,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -1.5655608177185059 0 0 0 0 0 0 0 0
+  Key -1.5655608177185061 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -52829,7 +52829,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000c6 Objects/Office/DualDesk.lwo
+LoadObjectLayer 1 100000c6 Objects/Furniture/DualDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -53019,7 +53019,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000c7 Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000c7 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -53399,7 +53399,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000c9 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000c9 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -53589,7 +53589,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000ca Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000ca Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -53969,7 +53969,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000cc Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000cc Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -54347,7 +54347,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000ce Objects/Office/DualDesk.lwo
+LoadObjectLayer 1 100000ce Objects/Furniture/DualDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -54537,7 +54537,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000cf Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000cf Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -54755,7 +54755,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -5.8381280899047834 0 0 0 0 0 0 0 0
+  Key -5.8381280899047843 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -54917,7 +54917,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000d1 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000d1 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -54933,7 +54933,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key -0.084336660802364363 0 0 0 0 0 0 0 0
+  Key -0.084336660802364349 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -55107,7 +55107,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000d2 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000d2 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -55123,7 +55123,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key -0.084336660802364363 0 0 0 0 0 0 0 0
+  Key -0.084336660802364349 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -55319,7 +55319,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.43706142902374268 0 0 0 0 0 0 0 0
+  Key 0.43706142902374262 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -55487,7 +55487,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000d4 Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000d4 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -55865,7 +55865,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000d6 Objects/Office/DualDesk.lwo
+LoadObjectLayer 1 100000d6 Objects/Furniture/DualDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -56055,7 +56055,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000d7 Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000d7 Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -56267,13 +56267,13 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 0.41534742712974548 0 0 0 0 0 0 0 0
+  Key 0.41534742712974554 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   1
-  Key -5.9498300552368146 0 0 0 0 0 0 0 0
+  Key -5.9498300552368155 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -56435,7 +56435,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000d9 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000d9 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -56451,7 +56451,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key -0.084336660802364363 0 0 0 0 0 0 0 0
+  Key -0.084336660802364349 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -56625,7 +56625,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000da Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 100000da Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -56641,7 +56641,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key -0.084336660802364363 0 0 0 0 0 0 0 0
+  Key -0.084336660802364349 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -57005,7 +57005,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 100000dc Objects/Office/Computer.lwo
+LoadObjectLayer 1 100000dc Objects/Furniture/Computer.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -57383,7 +57383,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000012f Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 1000012f Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -57571,7 +57571,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000130 Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 10000130 Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -57760,7 +57760,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000131 Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 10000131 Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -57949,7 +57949,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000132 Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 10000132 Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -58138,7 +58138,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000133 Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 10000133 Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -58327,7 +58327,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000134 Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 10000134 Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -58516,7 +58516,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000135 Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 10000135 Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -58705,7 +58705,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000136 Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 10000136 Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -58894,7 +58894,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000137 Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 10000137 Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -58916,7 +58916,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 2.9804778099060059 0 0 0 0 0 0.064644431156560406 0 0
+  Key 2.9804778099060054 0 0 0 0 0 0.064644431156560406 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -59083,7 +59083,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000138 Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 10000138 Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -59272,7 +59272,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000139 Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 10000139 Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -59461,7 +59461,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000013a Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 1000013a Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -59650,7 +59650,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000013b Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 1000013b Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -59839,7 +59839,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000013c Objects/Office/SingleDesk.lwo
+LoadObjectLayer 1 1000013c Objects/Furniture/SingleDesk.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -60028,7 +60028,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000013d Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000013d Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -60218,7 +60218,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000013e Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000013e Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -60408,7 +60408,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000013f Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000013f Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -60598,7 +60598,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000140 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000140 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -60608,7 +60608,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -6.9184074401855469 0 0 0 0 0 -0.052075346639333685 0 0
+  Key -6.918407440185546 0 0 0 0 0 -0.052075346639333685 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -60620,7 +60620,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 9.061671257019043 0 0 0 0 0 -0.052144389507199233 0 0
+  Key 9.0616712570190447 0 0 0 0 0 -0.052144389507199233 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -60788,7 +60788,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000141 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000141 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -60978,7 +60978,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000142 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000142 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -61177,7 +61177,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000143 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000143 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -61367,7 +61367,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000144 Objects/Envelopes/WWRBaseline-9ft.lwo
+LoadObjectLayer 1 10000144 Objects/Envelopes/ForPublishing/Envelope_WWRBaseline_9ft.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -61377,7 +61377,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.087653502821922302 0 0 0 0 0 0 -0.66276266188070865 0
+  Key -0.087653502821922302 0 0 0 0 0 0 -0.66276266188070876 0
   Behaviors 1 1
 }
 Channel 1
@@ -61556,7 +61556,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000147 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000147 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -61581,7 +61581,7 @@ Channel 2
 { Envelope
   2
   Key 0.701551914215088 0 0 0 0 0 0 0 0
-  Key 9.061671257019043 0.033333333333333333 0 0 0 0 -0.052144389507199233 0 0
+  Key 9.0616712570190447 0.033333333333333333 0 0 0 0 -0.052144389507199233 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -61755,7 +61755,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000148 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000148 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -61954,7 +61954,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000149 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000149 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -62153,7 +62153,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000014a Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000014a Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -62364,7 +62364,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 12.241500854492189 0 0 0 0 0 0 0 0
+  Key 12.241500854492188 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -62530,7 +62530,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000145 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000145 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -62541,7 +62541,7 @@ Channel 0
 { Envelope
   2
   Key -7.0759353637695313 0 0 0 0 0 -0.052075346639333685 0 0
-  Key 27.137203216552734 0.033333333333333333 0 0 0 0 0.050119447314049596 0 0
+  Key 27.137203216552731 0.033333333333333333 0 0 0 0 0.050119447314049603 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -62560,7 +62560,7 @@ Channel 3
 { Envelope
   2
   Key -3.1363549232482919 0 0 0 0 0 8.8083810256160577e-016 0 0
-  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084955 0 0
+  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084964 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -62722,7 +62722,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000146 Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 10000146 Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -62733,7 +62733,7 @@ Channel 0
 { Envelope
   2
   Key -6.970916748046875 0 0 0 0 0 -0.052075346639333685 0 0
-  Key 27.242221832275394 0.033333333333333333 0 0 0 0 0.050119447314049596 0 0
+  Key 27.242221832275398 0.033333333333333333 0 0 0 0 0.050119447314049603 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -62752,7 +62752,7 @@ Channel 3
 { Envelope
   2
   Key -3.1363549232482919 0 0 0 0 0 8.8083810256160577e-016 0 0
-  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084955 0 0
+  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084964 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -62914,7 +62914,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000014b Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000014b Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -62925,7 +62925,7 @@ Channel 0
 { Envelope
   2
   Key -6.970916748046875 0 0 0 0 0 -0.052075346639333685 0 0
-  Key 27.242221832275394 0.033333333333333333 0 0 0 0 0.050119447314049596 0 0
+  Key 27.242221832275398 0.033333333333333333 0 0 0 0 0.050119447314049603 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -62944,7 +62944,7 @@ Channel 3
 { Envelope
   2
   Key -3.1363549232482919 0 0 0 0 0 8.8083810256160577e-016 0 0
-  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084955 0 0
+  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084964 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -63106,7 +63106,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000014c Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000014c Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -63116,8 +63116,8 @@ NumChannels 9
 Channel 0
 { Envelope
   2
-  Key -6.9184074401855469 0 0 0 0 0 -0.052075346639333685 0 0
-  Key 27.294731140136719 0.033333333333333333 0 0 0 0 0.050119447314049596 0 0
+  Key -6.918407440185546 0 0 0 0 0 -0.052075346639333685 0 0
+  Key 27.294731140136719 0.033333333333333333 0 0 0 0 0.050119447314049603 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -63129,14 +63129,14 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 9.061671257019043 0 0 0 0 0 -0.052144389507199233 0 0
+  Key 9.0616712570190447 0 0 0 0 0 -0.052144389507199233 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   2
   Key -3.1363549232482919 0 0 0 0 0 8.8083810256160577e-016 0 0
-  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084955 0 0
+  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084964 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -63298,7 +63298,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000014d Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000014d Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -63309,7 +63309,7 @@ Channel 0
 { Envelope
   2
   Key -6.8133888244628888 0 0 0 0 0 -0.052075346639333685 0 0
-  Key 27.399749755859357 0.033333333333333333 0 0 0 0 0.050119447314047834 0 0
+  Key 27.399749755859361 0.033333333333333333 0 0 0 0 0.050119447314047841 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -63328,7 +63328,7 @@ Channel 3
 { Envelope
   2
   Key -3.1363549232482919 0 0 0 0 0 8.8083810256160577e-016 0 0
-  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084955 0 0
+  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084964 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -63490,7 +63490,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000014e Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000014e Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -63501,7 +63501,7 @@ Channel 0
 { Envelope
   2
   Key -6.8133888244628888 0 0 0 0 0 -0.052075346639333685 0 0
-  Key 27.399749755859357 0.033333333333333333 0 0 0 0 0.050119447314047834 0 0
+  Key 27.399749755859361 0.033333333333333333 0 0 0 0 0.050119447314047841 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -63520,7 +63520,7 @@ Channel 3
 { Envelope
   2
   Key -3.1363549232482919 0 0 0 0 0 8.8083810256160577e-016 0 0
-  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084955 0 0
+  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084964 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -63682,7 +63682,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000014f Objects/Office/ChairFinal.lwo
+LoadObjectLayer 1 1000014f Objects/Furniture/ChairFinal.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -63693,7 +63693,7 @@ Channel 0
 { Envelope
   2
   Key -6.8658981323242187 0 0 0 0 0 -0.052075346639333685 0 0
-  Key 27.470775604248047 0.033333333333333333 0 0 0 0 0.050119447314049596 0 0
+  Key 27.470775604248047 0.033333333333333333 0 0 0 0 0.050119447314049603 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -63714,7 +63714,7 @@ Channel 3
 { Envelope
   2
   Key -3.1363549232482919 0 0 0 0 0 8.8083810256160577e-016 0 0
-  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084955 0 0
+  Key -6.2831859588623056 0.033333333333333333 0 0 0 0 -0.0069236755371084964 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -64078,7 +64078,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.3518767356872559 0 0 0 0 0 0 0 0
+  Key 1.3518767356872561 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -64266,7 +64266,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.3518767356872559 0 0 0 0 0 0 0 0
+  Key 1.3518767356872561 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -64830,7 +64830,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.3518767356872559 0 0 0 0 0 0 0 0
+  Key 1.3518767356872561 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -65018,13 +65018,13 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.3518767356872559 0 0 0 0 0 0 0 0
+  Key 1.3518767356872561 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.73807567358016968 0 0 0 0 0 0 0 0
+  Key -0.73807567358016957 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -65395,7 +65395,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -11.673411369323727 0 0 0 0 0 0 0 0
+  Key -11.673411369323729 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -65763,7 +65763,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000156 Objects/Windows/WWRBaseline-9ftWindow.lwo
+LoadObjectLayer 1 10000156 Objects/Windows/ForPublishing/StripWindows_WWRBaseline_9ft.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -65772,7 +65772,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.10166144371032715 0 0 0 0 0 0 0 0
+  Key -0.10166144371032716 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -65951,7 +65951,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000157 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000157 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -66138,7 +66138,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000158 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000158 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -66326,7 +66326,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000159 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000159 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -66514,7 +66514,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000015b Objects/Office/Blinds.lwo
+LoadObjectLayer 1 1000015b Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -66524,7 +66524,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -12.190098762512207 0 0 0 0 0 0 0 0
+  Key -12.190098762512209 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -66702,7 +66702,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000015c Objects/Office/Blinds.lwo
+LoadObjectLayer 1 1000015c Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -66890,7 +66890,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000015d Objects/Office/Blinds.lwo
+LoadObjectLayer 1 1000015d Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -67078,7 +67078,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000161 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000161 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -67266,7 +67266,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000162 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000162 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -67454,7 +67454,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000163 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000163 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -67642,7 +67642,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000164 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000164 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -67830,7 +67830,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000165 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000165 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -68018,7 +68018,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000166 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000166 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -68028,7 +68028,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -7.5958290100097647 0 0 0 0 0 0 0 0
+  Key -7.595829010009763 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -68206,7 +68206,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000167 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000167 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -68394,7 +68394,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000168 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000168 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -68582,7 +68582,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000169 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000169 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -68592,7 +68592,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 3.1071503162384038 0 0 0 0 0 0 0 0
+  Key 3.1071503162384042 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -68770,7 +68770,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000016a Objects/Office/Blinds.lwo
+LoadObjectLayer 1 1000016a Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -68958,7 +68958,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000016b Objects/Office/Blinds.lwo
+LoadObjectLayer 1 1000016b Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -69146,7 +69146,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000016c Objects/Office/Blinds.lwo
+LoadObjectLayer 1 1000016c Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -69334,7 +69334,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000016d Objects/Office/Blinds.lwo
+LoadObjectLayer 1 1000016d Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -69522,7 +69522,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000016e Objects/Office/Blinds.lwo
+LoadObjectLayer 1 1000016e Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -69710,7 +69710,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000016f Objects/Office/Blinds.lwo
+LoadObjectLayer 1 1000016f Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -69898,7 +69898,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000170 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000170 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -70086,7 +70086,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000171 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000171 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -70274,7 +70274,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000172 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000172 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -70462,7 +70462,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000173 Objects/Office/Blinds.lwo
+LoadObjectLayer 1 10000173 Objects/Furniture/Blinds.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -70472,7 +70472,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 18.416337966918942 0 0 0 0 0 0 0 0
+  Key 18.416337966918945 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -70778,7 +70778,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key 0.88038450479507435 0 0 0 0 0 0 0 0
+  Key 0.88038450479507424 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -70900,7 +70900,7 @@ Channel 3
 Channel 4
 { Envelope
   1
-  Key 1.5690510272979739 0 0 0 0 0 0 0 0
+  Key 1.5690510272979741 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 5
@@ -70974,7 +70974,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key 0.89460027217864979 0 0 0 0 0 0 0 0
+  Key 0.8946002721786499 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -71079,7 +71079,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key 0.89460027217864979 0 0 0 0 0 0 0 0
+  Key 0.8946002721786499 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -71177,7 +71177,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -3.7252902984619141e-009 0 0 0 0 0 -3.7244281623132315e-009 0 0
+  Key -3.7252902984619136e-009 0 0 0 0 0 -3.7244281623132319e-009 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -71289,7 +71289,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key 0.89460027217864979 0 0 0 0 0 0 0 0
+  Key 0.8946002721786499 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -71387,15 +71387,15 @@ NumChannels 9
 Channel 0
 { Envelope
   2
-  Key 0 0 0 0 0 0 0 -1.9791633870011518 0
-  Key -1.9792183637619016 10 0 0 0 0 -1.9791633870011518 0 0
+  Key 0 0 0 0 0 0 0 -1.979163387001152 0
+  Key -1.9792183637619016 10 0 0 0 0 -1.979163387001152 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   2
-  Key 0 0 0 0 0 0 0 1.2609684673608241 0
-  Key 1.2610034942626951 10 0 0 0 0 1.2609684673608241 0 0
+  Key 0 0 0 0 0 0 0 1.2609684673608239 0
+  Key 1.2610034942626951 10 0 0 0 0 1.2609684673608239 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -71584,7 +71584,7 @@ NumChannels 6
 Channel 0
 { Envelope
   1
-  Key -3.7363176345825204 0 0 0 0 0 0 0 0
+  Key -3.73631763458252 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -71608,7 +71608,7 @@ Channel 3
 Channel 4
 { Envelope
   1
-  Key 0.029670588672161095 0 0 0 0 0 0 0 0
+  Key 0.029670588672161092 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 5
@@ -71674,7 +71674,7 @@ NumChannels 6
 Channel 0
 { Envelope
   1
-  Key -11.822480201721193 0 0 0 0 0 0 0 0
+  Key -11.822480201721191 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -71692,7 +71692,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -1.1082838773727421 0 0 0 0 0 0 0 0
+  Key -1.1082838773727419 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -71758,9 +71758,9 @@ NumChannels 6
 Channel 0
 { Envelope
   5
-  Key -11.641467094421385 0 0 0 0 0 0 17.82153611248722 0
+  Key -11.641467094421383 0 0 0 0 0 0 17.82153611248722 0
   Key 6.182544231414794 2 0 0 0 0 12.82260847091675 12.82260847091675 0
-  Key 14.003749847412109 4 0 0 0 0 -5.3947153091430655 -5.3947153091430655 0
+  Key 14.003749847412108 4 0 0 0 0 -5.3947153091430655 -5.3947153091430655 0
   Key -4.6068863868713379 6 0 0 0 0 -9.4036972522735596 -9.4036972522735596 0
   Key -4.8036446571350098 8 0 0 0 0 -0.19673094652109951 0 0
   Behaviors 1 1
@@ -71779,10 +71779,10 @@ Channel 2
 { Envelope
   5
   Key -11.401620864868164 0 0 0 0 0 0 1.1942377820178494 0
-  Key -10.207217216491701 2 0 0 0 0 10.152403831481934 10.152403831481934 0
+  Key -10.207217216491699 2 0 0 0 0 10.152403831481934 10.152403831481934 0
   Key 8.9031867980957031 4 0 0 0 0 9.5552020072936958 9.5552020072936958 0
   Key 8.9031867980957031 6 0 0 0 0 -6.2749450206756601 -6.2749450206756601 0
-  Key -3.6467032432556157 8 0 0 0 0 -12.548147243123102 0 0
+  Key -3.6467032432556161 8 0 0 0 0 -12.548147243123102 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -71790,9 +71790,9 @@ Channel 3
   5
   Key 0.83950364589691173 0 0 0 0 0 0 -0.35076279422339934 0
   Key 0.49043747782707209 2 0 0 0 0 -1.3997542858123777 -1.3997542858123777 0
-  Key -1.9582595825195313 4 0 0 0 0 -1.2243485301733017 -1.2243485301733017 0
-  Key -1.9582595825195313 6 0 0 0 0 0 0 0
-  Key -1.9582595825195313 8 0 0 0 0 0 0 0
+  Key -1.9582595825195317 4 0 0 0 0 -1.2243485301733017 -1.2243485301733017 0
+  Key -1.9582595825195317 6 0 0 0 0 0 0 0
+  Key -1.9582595825195317 8 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
