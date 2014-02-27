@@ -1,3 +1,228 @@
+newmtl black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl clear
+Ka 0 0 0
+Kd 0.737164 0.737142 0.737155
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 0.9
+
+newmtl outer
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl red
+Ka 0 0 0
+Kd 1 0 0.0254588
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl White
+Ka 0 0 0
+Kd 0.876272 0.870545 0.881999
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd ThermostatUV.jpg
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd MaleSitting1UV.psd
+
+newmtl Default
+Ka 0 0 0
+Kd 0.853153 0.853153 0.853153
+Ks 0 0 0
+Ni 1
+Ns 131
+Tf 1 1 1
+d 1
+
+newmtl Exterior_Envelope
+Ka 0 0 0
+Kd 0.715777 0.672648 0.602652
+Ks 0.1 0.1 0.1
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+
+newmtl Ground
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd GroundA.jpg
+
+newmtl InteriorPaint
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaintTransparent
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl blue
+Ka 0 0 0
+Kd 0.227451 0.258824 0.611765
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl copper
+Ka 0 0 0
+Kd 0.768627 0.431373 0.25098
+Ks 0.4 0.4 0.4
+Ni 1
+Ns 639
+Tf 1 1 1
+d 1
+
+newmtl cyan
+Ka 0 0 0
+Kd 0.65098 0.745098 0.92549
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Dark
+Ka 0 0 0
+Kd 0.227451 0.258824 0.611765
+Ks 0.2 0.2 0.2
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0.2 0.2 0.2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd CoolingCoilUV.psd
+
+newmtl outer
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0.995 0.995 0.995
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl LW_Sky_Back
+Ka 1 1 1
+Kd 0.505882 0.713726 0.878431
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd skyWarpBack.jpg
+
+newmtl LW_Sky_Front
+Ka 1 1 1
+Kd 0.505882 0.713726 0.878431
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd skyWarpFront.jpg
+
+newmtl LW_Sky_Left
+Ka 1 1 1
+Kd 0.505882 0.713726 0.878431
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd skyWarpLeft.jpg
+
+newmtl LW_Sky_Right
+Ka 1 1 1
+Kd 0.505882 0.713726 0.878431
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd skyWarpRight.jpg
+
+newmtl LW_Sky_Up
+Ka 1 1 1
+Kd 0.505882 0.713726 0.878431
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd skyWarpUp.jpg
+
 newmtl LW_Sky_Back
 Ka 1 1 1
 Kd 0.505882 0.713726 0.878431
@@ -50,15 +275,6 @@ map_Kd skyWarpUp.jpg
 
 newmtl Default
 Ka 0 0 0
-Kd 0.784314 0.784314 0.784314
-Ks 0 0 0
-Ni 1
-Ns 400
-Tf 1 1 1
-d 1
-
-newmtl Default
-Ka 0 0 0
 Kd 0.853153 0.853153 0.853153
 Ks 0 0 0
 Ni 1
@@ -128,24 +344,6 @@ Ni 1
 Ns 400
 Tf 1 1 1
 d 1
-
-newmtl Mullion
-Ka 0 0 0
-Kd 0.170654 0.170681 0.170642
-Ks 0.5 0.5 0.5
-Ni 1
-Ns 325
-Tf 1 1 1
-d 1
-
-newmtl tintglass
-Ka 0 0 0
-Kd 0 0 0
-Ks 0.8 0.8 0.8
-Ni 1
-Ns 131
-Tf 1 1 1
-d 0.525
 
 newmtl Default
 Ka 0 0 0
