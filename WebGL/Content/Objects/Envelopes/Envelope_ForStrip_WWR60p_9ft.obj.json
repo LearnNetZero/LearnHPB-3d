@@ -5,7 +5,7 @@
         "formatVersion" : 3.1,
         "sourceFile"    : "Envelope_ForStrip_WWR60p_9ft.obj",
         "generatedBy"   : "OBJConverter",
-        "vertices"      : 1016,
+        "vertices"      : 1018,
         "faces"         : 347,
         "normals"       : 249,
         "uvs"           : 12,
@@ -19,6 +19,7 @@
 	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.853153, 0.853153, 0.853153],
 	"colorSpecular" : [0.0, 0.0, 0.0],
+	"mapDiffuse" : "CoolingCoilUV.psd",
 	"opticalDensity" : 1.0,
 	"specularCoef" : 131.0,
 	"transparency" : 1.0
