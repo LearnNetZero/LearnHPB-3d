@@ -1,0 +1,90 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3.1,
+        "sourceFile"    : "CoolingCoil.obj",
+        "generatedBy"   : "OBJConverter",
+        "vertices"      : 2152,
+        "faces"         : 1888,
+        "normals"       : 993,
+        "uvs"           : 2,
+        "materials"     : 6
+    },
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "outer",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.784314, 0.784314, 0.784314],
+	"colorSpecular" : [0.0, 0.0, 0.0],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	},
+
+	{
+	"DbgColor" : 15597568,
+	"DbgIndex" : 1,
+	"DbgName" : "blue",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.227451, 0.258824, 0.611765],
+	"colorSpecular" : [0.2, 0.2, 0.2],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	},
+
+	{
+	"DbgColor" : 60928,
+	"DbgIndex" : 2,
+	"DbgName" : "cyan",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.65098, 0.745098, 0.92549],
+	"colorSpecular" : [0.2, 0.2, 0.2],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	},
+
+	{
+	"DbgColor" : 238,
+	"DbgIndex" : 3,
+	"DbgName" : "Dark",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.227451, 0.258824, 0.611765],
+	"colorSpecular" : [0.2, 0.2, 0.2],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	},
+
+	{
+	"DbgColor" : 15658496,
+	"DbgIndex" : 4,
+	"DbgName" : "Default",
+	"colorAmbient" : [0.2, 0.2, 0.2],
+	"colorDiffuse" : [0.784314, 0.784314, 0.784314],
+	"colorSpecular" : [1.0, 1.0, 1.0],
+	"mapDiffuse" : "HeatCoilUV.psd",
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	},
+
+	{
+	"DbgColor" : 61166,
+	"DbgIndex" : 5,
+	"DbgName" : "copper",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.768627, 0.431373, 0.25098],
+	"colorSpecular" : [0.4, 0.4, 0.4],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 639.0,
+	"transparency" : 1.0
+	}],
+
+    "buffers": "CoolingCoil.obj.bin"
+
+}

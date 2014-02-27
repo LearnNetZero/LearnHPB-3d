@@ -1,0 +1,30 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3.1,
+        "sourceFile"    : "SingleDesk.obj",
+        "generatedBy"   : "OBJConverter",
+        "vertices"      : 1001,
+        "faces"         : 1276,
+        "normals"       : 813,
+        "uvs"           : 0,
+        "materials"     : 1
+    },
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "Default",
+	"colorAmbient" : [0.2, 0.2, 0.2],
+	"colorDiffuse" : [0.784314, 0.784314, 0.784314],
+	"colorSpecular" : [1.0, 1.0, 1.0],
+	"mapDiffuse" : "QuadDesk11-21-12.jpg",
+	"opticalDensity" : 1.0,
+	"specularCoef" : 759.0,
+	"transparency" : 1.0
+	}],
+
+    "buffers": "SingleDesk.obj.bin"
+
+}

@@ -1,0 +1,12 @@
+LWSC
+1
+LoadObject LW_Sky.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1000 1000 1000
+  0 0 0 0 0
+EndBehavior 1
+UnaffectedByFog 1
+ShadowOptions 0

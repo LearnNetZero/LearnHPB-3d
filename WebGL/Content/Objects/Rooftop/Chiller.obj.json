@@ -1,0 +1,78 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3.1,
+        "sourceFile"    : "Chiller.obj",
+        "generatedBy"   : "OBJConverter",
+        "vertices"      : 6706,
+        "faces"         : 6198,
+        "normals"       : 6027,
+        "uvs"           : 1,
+        "materials"     : 5
+    },
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "Default",
+	"colorAmbient" : [0.2, 0.2, 0.2],
+	"colorDiffuse" : [0.784314, 0.784314, 0.784314],
+	"colorSpecular" : [1.0, 1.0, 1.0],
+	"mapDiffuse" : "HeatCoilUV.psd",
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	},
+
+	{
+	"DbgColor" : 15597568,
+	"DbgIndex" : 1,
+	"DbgName" : "Black",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.0266266, 0.0, 0.040724],
+	"colorSpecular" : [0.0, 0.0, 0.0],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	},
+
+	{
+	"DbgColor" : 60928,
+	"DbgIndex" : 2,
+	"DbgName" : "yellow",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.624434, 0.60491, 0.273778],
+	"colorSpecular" : [0.0, 0.0, 0.0],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	},
+
+	{
+	"DbgColor" : 238,
+	"DbgIndex" : 3,
+	"DbgName" : "white",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.723982, 0.720822, 0.711342],
+	"colorSpecular" : [0.0, 0.0, 0.0],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	},
+
+	{
+	"DbgColor" : 15658496,
+	"DbgIndex" : 4,
+	"DbgName" : "green",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.157964, 0.615385, 0.246654],
+	"colorSpecular" : [0.0, 0.0, 0.0],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	}],
+
+    "buffers": "Chiller.obj.bin"
+
+}

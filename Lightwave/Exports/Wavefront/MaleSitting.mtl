@@ -1,0 +1,65 @@
+newmtl black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl clear
+Ka 0 0 0
+Kd 0.737164 0.737142 0.737155
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 0.9
+
+newmtl outer
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl red
+Ka 0 0 0
+Kd 1 0 0.0254588
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl White
+Ka 0 0 0
+Kd 0.876272 0.870545 0.881999
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd ThermostatUV.jpg
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd MaleSitting1UV.psd
+

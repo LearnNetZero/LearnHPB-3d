@@ -1,0 +1,554 @@
+newmtl LW_Sky_Back
+Ka 1 1 1
+Kd 0.505882 0.713726 0.878431
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd skyWarpBack.jpg
+
+newmtl LW_Sky_Front
+Ka 1 1 1
+Kd 0.505882 0.713726 0.878431
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd skyWarpFront.jpg
+
+newmtl LW_Sky_Left
+Ka 1 1 1
+Kd 0.505882 0.713726 0.878431
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd skyWarpLeft.jpg
+
+newmtl LW_Sky_Right
+Ka 1 1 1
+Kd 0.505882 0.713726 0.878431
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd skyWarpRight.jpg
+
+newmtl LW_Sky_Up
+Ka 1 1 1
+Kd 0.505882 0.713726 0.878431
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd skyWarpUp.jpg
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.853153 0.853153 0.853153
+Ks 0 0 0
+Ni 1
+Ns 131
+Tf 1 1 1
+d 1
+
+newmtl Exterior_Envelope
+Ka 0 0 0
+Kd 0.715777 0.672648 0.602652
+Ks 0.1 0.1 0.1
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaint
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaintTransparent
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.853153 0.853153 0.853153
+Ks 0 0 0
+Ni 1
+Ns 131
+Tf 1 1 1
+d 1
+
+newmtl Exterior_Envelope
+Ka 0 0 0
+Kd 0.715777 0.672648 0.602652
+Ks 0.1 0.1 0.1
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaint
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaintTransparent
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Mullion
+Ka 0 0 0
+Kd 0.170654 0.170681 0.170642
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 325
+Tf 1 1 1
+d 1
+
+newmtl tintglass
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.8 0.8 0.8
+Ni 1
+Ns 131
+Tf 1 1 1
+d 0.525
+
+newmtl Default
+Ka 0 0 0
+Kd 0.853153 0.853153 0.853153
+Ks 0 0 0
+Ni 1
+Ns 131
+Tf 1 1 1
+d 1
+
+newmtl Exterior_Envelope
+Ka 0 0 0
+Kd 0.715777 0.672648 0.602652
+Ks 0.1 0.1 0.1
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaint
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaintTransparent
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.853153 0.853153 0.853153
+Ks 0 0 0
+Ni 1
+Ns 131
+Tf 1 1 1
+d 1
+
+newmtl Exterior_Envelope
+Ka 0 0 0
+Kd 0.715777 0.672648 0.602652
+Ks 0.1 0.1 0.1
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaint
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaintTransparent
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.853153 0.853153 0.853153
+Ks 0 0 0
+Ni 1
+Ns 131
+Tf 1 1 1
+d 1
+
+newmtl Exterior_Envelope
+Ka 0 0 0
+Kd 0.715777 0.672648 0.602652
+Ks 0.1 0.1 0.1
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaint
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaintTransparent
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.853153 0.853153 0.853153
+Ks 0 0 0
+Ni 1
+Ns 131
+Tf 1 1 1
+d 1
+
+newmtl Exterior_Envelope
+Ka 0 0 0
+Kd 0.715777 0.672648 0.602652
+Ks 0.1 0.1 0.1
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaint
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaintTransparent
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.853153 0.853153 0.853153
+Ks 0 0 0
+Ni 1
+Ns 131
+Tf 1 1 1
+d 1
+
+newmtl Exterior_Envelope
+Ka 0 0 0
+Kd 0.715777 0.672648 0.602652
+Ks 0.1 0.1 0.1
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaint
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl InteriorPaintTransparent
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0.02 0.02 0.02
+Kd 0.941176 0.941176 0.941176
+Ks 0.255 0.255 0.255
+Ni 1
+Ns 414
+Tf 1 1 1
+d 1
+
+newmtl Interior
+Ka 0.025 0.025 0.025
+Kd 0.854982 0.853595 0.877828
+Ks 0.165 0.165 0.165
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Interior_Body
+Ka 0.03 0.03 0.03
+Kd 0.835386 0.98067 0.98067
+Ks 0.475 0.475 0.475
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0.02 0.02 0.02
+Kd 0.941176 0.941176 0.941176
+Ks 0.255 0.255 0.255
+Ni 1
+Ns 414
+Tf 1 1 1
+d 1
+
+newmtl Interior
+Ka 0.025 0.025 0.025
+Kd 0.854982 0.853595 0.877828
+Ks 0.165 0.165 0.165
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Interior_Body
+Ka 0.03 0.03 0.03
+Kd 0.835386 0.98067 0.98067
+Ks 0.475 0.475 0.475
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0.02 0.02 0.02
+Kd 0.941176 0.941176 0.941176
+Ks 0.255 0.255 0.255
+Ni 1
+Ns 414
+Tf 1 1 1
+d 1
+
+newmtl Interior
+Ka 0.025 0.025 0.025
+Kd 0.854982 0.853595 0.877828
+Ks 0.165 0.165 0.165
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Interior_Body
+Ka 0.03 0.03 0.03
+Kd 0.835386 0.98067 0.98067
+Ks 0.475 0.475 0.475
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0.115 0.115 0.115
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl red
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl BluePlastic
+Ka 0 0 0
+Kd 0.117647 0.117647 1
+Ks 0.3 0.3 0.3
+Ni 1
+Ns 159
+Tf 1 1 1
+d 1
+
+newmtl bulb
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl metal
+Ka 0 0 0
+Kd 0.894758 0.922074 0.97156
+Ks 0.35 0.35 0.35
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl quadlamps_56
+Ka 0 0 0
+Kd 0.042898 0.0430043 0.0433645
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 159
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Exterior_Envelope
+Ka 0 0 0
+Kd 0.715777 0.672648 0.602652
+Ks 0.1 0.1 0.1
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Exterior_Envelope
+Ka 0 0 0
+Kd 0.715777 0.672648 0.602652
+Ks 0.1 0.1 0.1
+Ni 1
+Ns 250
+Tf 1 1 1
+d 1
+

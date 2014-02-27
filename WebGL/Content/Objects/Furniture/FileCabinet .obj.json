@@ -1,0 +1,23 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3.1,
+        "sourceFile"    : "FileCabinet .obj",
+        "generatedBy"   : "OBJConverter",
+        "vertices"      : 224,
+        "faces"         : 142,
+        "normals"       : 40,
+        "uvs"           : 5,
+        "materials"     : 1
+    },
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "Default"
+	}],
+
+    "buffers": "FileCabinet .obj.bin"
+
+}

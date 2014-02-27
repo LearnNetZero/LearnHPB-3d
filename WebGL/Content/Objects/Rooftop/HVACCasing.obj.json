@@ -1,0 +1,29 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3.1,
+        "sourceFile"    : "HVACCasing.obj",
+        "generatedBy"   : "OBJConverter",
+        "vertices"      : 266,
+        "faces"         : 238,
+        "normals"       : 274,
+        "uvs"           : 0,
+        "materials"     : 1
+    },
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "outer",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.784314, 0.784314, 0.784314],
+	"colorSpecular" : [0.0, 0.0, 0.0],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	}],
+
+    "buffers": "HVACCasing.obj.bin"
+
+}

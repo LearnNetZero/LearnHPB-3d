@@ -1,0 +1,23 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3.1,
+        "sourceFile"    : "MaleSitting.obj",
+        "generatedBy"   : "OBJConverter",
+        "vertices"      : 35918,
+        "faces"         : 35083,
+        "normals"       : 0,
+        "uvs"           : 46007,
+        "materials"     : 1
+    },
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "Default"
+	}],
+
+    "buffers": "MaleSitting.obj.bin"
+
+}

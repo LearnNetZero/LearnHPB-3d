@@ -1,0 +1,29 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3.1,
+        "sourceFile"    : "Ductwork.obj",
+        "generatedBy"   : "OBJConverter",
+        "vertices"      : 264,
+        "faces"         : 42,
+        "normals"       : 55,
+        "uvs"           : 1,
+        "materials"     : 1
+    },
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "Ductwork",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.908973, 0.893103, 0.905005],
+	"colorSpecular" : [0.95, 0.95, 0.95],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 289.0,
+	"transparency" : 1.0
+	}],
+
+    "buffers": "Ductwork.obj.bin"
+
+}

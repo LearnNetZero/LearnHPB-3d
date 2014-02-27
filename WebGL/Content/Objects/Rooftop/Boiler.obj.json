@@ -1,0 +1,42 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3.1,
+        "sourceFile"    : "Boiler.obj",
+        "generatedBy"   : "OBJConverter",
+        "vertices"      : 1358,
+        "faces"         : 1168,
+        "normals"       : 1290,
+        "uvs"           : 0,
+        "materials"     : 2
+    },
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "outer",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.784314, 0.784314, 0.784314],
+	"colorSpecular" : [0.0, 0.0, 0.0],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	},
+
+	{
+	"DbgColor" : 15597568,
+	"DbgIndex" : 1,
+	"DbgName" : "Default",
+	"colorAmbient" : [0.2, 0.2, 0.2],
+	"colorDiffuse" : [0.784314, 0.784314, 0.784314],
+	"colorSpecular" : [1.0, 1.0, 1.0],
+	"mapDiffuse" : "HeatCoilUV.psd",
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	}],
+
+    "buffers": "Boiler.obj.bin"
+
+}

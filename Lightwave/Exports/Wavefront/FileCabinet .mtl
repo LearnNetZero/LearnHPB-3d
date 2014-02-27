@@ -1,0 +1,303 @@
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd ChairUV3.jpg
+
+newmtl Default
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.3 0.3 0.3
+Ni 1
+Ns 159
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0.2 0.2 0.2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Screen
+Ka 0.425 0.425 0.425
+Kd 0.176471 0.176471 0.176471
+Ks 0.225 0.225 0.225
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl conftable
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ni 1
+Ns 96
+Tf 1 1 1
+d 1
+map_Kd ConfTable11-20-12.jpg
+map_bump ConfTable11-20-12.jpg
+bump ConfTable11-20-12.jpg
+
+newmtl Default
+Ka 0.2 0.2 0.2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd elad_doubledesk.jpg
+
+newmtl Default
+Ka 0.2 0.2 0.2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0.2 0.2 0.2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd QuadDesk11-21-12.jpg
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Grill
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0.2 0.2 0.2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ni 1
+Ns 759
+Tf 1 1 1
+d 1
+
+newmtl black
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Ductwork
+Ka 0 0 0
+Kd 0.908973 0.893103 0.905005
+Ks 0.95 0.95 0.95
+Ni 1
+Ns 289
+Tf 1 1 1
+d 1
+
+newmtl VAVCoilFins
+Ka 0 0 0
+Kd 1 0.607843 0.415686
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 0.2
+
+newmtl VAVControlBox
+Ka 0 0 0
+Kd 0.592157 0.760784 0.486275
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVDiffuser
+Ka 0 0 0
+Kd 0.760784 0.823529 0.862745
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVDiffuserCut
+Ka 0 0 0
+Kd 0.878431 0.913725 0.929412
+Ks 0.1 0.1 0.1
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVHeatingCoils
+Ka 0 0 0
+Kd 1 0 0
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVHydraulic
+Ka 0 0 0
+Kd 0.776471 0.67451 0.32549
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVLever
+Ka 0 0 0
+Kd 0.670588 0.686275 0.760784
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVLink
+Ka 0 0 0
+Kd 0.670588 0.686275 0.760784
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVLinkHinge
+Ka 0 0 0
+Kd 0 0.419608 0.623529
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVPaddle
+Ka 0 0 0
+Kd 0.811765 0.556863 0.439216
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVPaddleAxle
+Ka 0 0 0
+Kd 0 0.419608 0.623529
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVPiston
+Ka 0 0 0
+Kd 0.403922 0.439216 0.552941
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVPistonHinge
+Ka 0 0 0
+Kd 0 0.419608 0.623529
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVWireGold
+Ka 0 0 0
+Kd 0.74902 0.576471 0.25098
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVWireGreen
+Ka 0 0 0
+Kd 0.160784 0.494118 0.160784
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl VAVWireRed
+Ka 0 0 0
+Kd 0.462745 0.152941 0.270588
+Ks 0.5 0.5 0.5
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+

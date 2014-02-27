@@ -1,0 +1,65 @@
+{
+
+    "metadata" :
+    {
+        "formatVersion" : 3.1,
+        "sourceFile"    : "2x2Fluorescent-Recessed.obj",
+        "generatedBy"   : "OBJConverter",
+        "vertices"      : 76,
+        "faces"         : 59,
+        "normals"       : 40,
+        "uvs"           : 0,
+        "materials"     : 4
+    },
+
+    "materials": [	{
+	"DbgColor" : 15658734,
+	"DbgIndex" : 0,
+	"DbgName" : "Default",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.784314, 0.784314, 0.784314],
+	"colorSpecular" : [0.0, 0.0, 0.0],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	},
+
+	{
+	"DbgColor" : 15597568,
+	"DbgIndex" : 1,
+	"DbgName" : "Interior_Body",
+	"colorAmbient" : [0.03, 0.03, 0.03],
+	"colorDiffuse" : [0.835386, 0.98067, 0.98067],
+	"colorSpecular" : [0.475, 0.475, 0.475],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	},
+
+	{
+	"DbgColor" : 60928,
+	"DbgIndex" : 2,
+	"DbgName" : "black",
+	"colorAmbient" : [0.0, 0.0, 0.0],
+	"colorDiffuse" : [0.0, 0.0, 0.0],
+	"colorSpecular" : [0.0, 0.0, 0.0],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	},
+
+	{
+	"DbgColor" : 238,
+	"DbgIndex" : 3,
+	"DbgName" : "Interior",
+	"colorAmbient" : [0.025, 0.025, 0.025],
+	"colorDiffuse" : [0.854982, 0.853595, 0.877828],
+	"colorSpecular" : [0.165, 0.165, 0.165],
+	"opticalDensity" : 1.0,
+	"specularCoef" : 400.0,
+	"transparency" : 1.0
+	}],
+
+    "buffers": "2x2Fluorescent-Recessed.obj.bin"
+
+}
