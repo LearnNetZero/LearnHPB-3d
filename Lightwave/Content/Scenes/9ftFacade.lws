@@ -48,9 +48,6 @@ ColorSpaceOutput "Linear" "none"
 ColorSpaceOutputAlpha "Linear" "none"
 ColorSpaceAutoSense 0
 ColorSpace8BitToFloat 0
-ColorSpaceCorrectOpenGL 0
-ColorSpaceAffectPicker 0
-FirstBackgroundImageSyncFrame 0
 
 LoadObjectLayer 1 10000000 Objects/Envelopes/Floor11ft.lwo
 ChangeObject 0
@@ -61,19 +58,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.0010582699906080959 0 0 0 0 0 0 0 0
+  Key -0.0010582699906080959059 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 0.24722300469875336 0 0 0 0 0 0 0 0
+  Key 0.24722300469875335693 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 0.0013555700425058603 0 0 0 0 0 0 0 0
+  Key 0.0013555700425058603287 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -249,19 +246,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.0010389699600636959 0 0 0 0 0 0 0 0
+  Key -0.0010389699600636959076 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 0.10188800096511839 0 0 0 0 0 0 0 0
+  Key 0.10188800096511839433 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 0.0012462700251489878 0 0 0 0 0 0 0 0
+  Key 0.0012462700251489877701 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -430,26 +427,26 @@ ShadowOptions 7
 
 LoadObjectLayer 1 10000002 Objects/Envelopes/Envelope_ForPunch_WWR20p-25p_9ft.lwo
 ChangeObject 0
-ShowObject 0 0
+ShowObject 7 0
 Group 0
 ObjectMotion
 NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.087653502821922302 0 0 0 0 0 0 0 0
+  Key -0.087653502821922302246 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.1032319962978363 0 0 0 0 0 0 0 0
+  Key -0.10323199629783630371 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -0.065606303513050079 0 0 0 0 0 0 0 0
+  Key -0.065606303513050079346 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -618,26 +615,26 @@ ShadowOptions 7
 
 LoadObjectLayer 1 10000003 Objects/Envelopes/Envelope_ForPunch_WWR40p_9ft.lwo
 ChangeObject 0
-ShowObject 7 0
+ShowObject 0 0
 Group 0
 ObjectMotion
 NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.087653502821922302 0 0 0 0 0 0 0 0
+  Key -0.087653502821922302246 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.1032319962978363 0 0 0 0 0 0 0 0
+  Key -0.10323199629783630371 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -0.065606303513050079 0 0 0 0 0 0 0 0
+  Key -0.065606303513050079346 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -813,19 +810,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.087653502821922302 0 0 0 0 0 0 0 0
+  Key -0.087653502821922302246 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.1032319962978363 0 0 0 0 0 0 0 0
+  Key -0.10323199629783630371 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -0.065606303513050079 0 0 0 0 0 0 0 0
+  Key -0.065606303513050079346 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -1188,19 +1185,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.087653502821922302 0 0 0 0 0 0 0 0
+  Key -0.087653502821922302246 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.1032319962978363 0 0 0 0 0 0 0 0
+  Key -0.10323199629783630371 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -0.065606303513050079 0 0 0 0 0 0 0 0
+  Key -0.065606303513050079346 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -1382,7 +1379,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key 0 0 0 0 0 0 0 0 0
+  Key 0.44911301136016845703 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -1563,19 +1560,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.087653502821922302 0 0 0 0 0 0 0 0
+  Key -0.087653502821922302246 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.1032319962978363 0 0 0 0 0 0 0 0
+  Key -0.10323199629783630371 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -0.065606303513050079 0 0 0 0 0 0 0 0
+  Key -0.065606303513050079346 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -1744,26 +1741,26 @@ ShadowOptions 7
 
 LoadObjectLayer 1 10000009 Objects/Windows/PunchWindows_WWR20p-25p_9ft.lwo
 ChangeObject 0
-ShowObject 0 0
+ShowObject 7 0
 Group 0
 ObjectMotion
 NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.087653502821922302 0 0 0 0 0 0 0 0
+  Key -0.087653502821922302246 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.1032319962978363 0 0 0 0 0 0 0 0
+  Key -0.10323199629783630371 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -0.065606303513050079 0 0 0 0 0 0 0 0
+  Key -0.065606303513050079346 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -1932,7 +1929,7 @@ ShadowOptions 7
 
 LoadObjectLayer 1 1000000a Objects/Windows/PunchWindows_WWR40p_9ft.lwo
 ChangeObject 0
-ShowObject 7 0
+ShowObject 0 0
 Group 0
 ObjectMotion
 NumChannels 9
@@ -1945,7 +1942,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key 0 0 0 0 0 0 0 0 0
+  Key -0.31242638826370239258 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -2132,7 +2129,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key 0 0 0 0 0 0 0 0 0
+  Key -0.21479311585426330566 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -2319,7 +2316,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key 0 0 0 0 0 0 0 0 0
+  Key -7.450580596923828125e-09 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -2506,7 +2503,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key 0 0 0 0 0 0 0 0 0
+  Key -0.19526647031307220459 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -3053,12 +3050,13 @@ ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
 AmbientColor 1 1 1
-AmbientIntensity 0.05
+AmbientIntensity 0
 DoubleSidedAreaLights 1
+EnableRadiosity 1
 RadiosityType 1
 RadiosityInterpolated 1
-RadiosityTransparency 0
-RadiosityIntensity 1
+RadiosityTransparency 1
+RadiosityIntensity 0.045
 RadiosityTolerance 0.2928932
 RadiosityRays 100
 SecondaryBounceRays 50
@@ -3076,13 +3074,13 @@ PixelFilterForceMT 0
 
 AddLight 20000000
 LightName Light
-ShowLight 1 6
+ShowLight 0 6
 LightMotion
 NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -2 0 0 0 0 0 0 0 0
+  Key -48.223728179931640625 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -3094,19 +3092,19 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -2 0 0 0 0 0 0 0 0
+  Key -31.66364288330078125 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   1
-  Key 0.78539816339744828 0 0 0 0 0 0 0 0
+  Key 1.0332350730895996094 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
 { Envelope
   1
-  Key 0.6108652381980153 0 0 0 0 0 0 0 0
+  Key 0.22165763378143310547 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 5
@@ -3165,39 +3163,220 @@ ShadowColor 0 0 0
 Plugin LightHandler 1 DistantLight
 EndPlugin
 
-AddCamera 30000000
-CameraName Camera
-ShowCamera 1 7
-CameraMotion
-NumChannels 6
+AddLight 20000001
+LightName Light
+ShowLight 1 -1 0.941176 0.376471 0.941176
+LightMotion
+NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0 0 0 0 0 0 0 0 0
+  Key 91.4087371826171875 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.01269996166229248 0 0 0 0 0 0 0 0
+  Key 0 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -86.820022583007813 0 0 0 0 0 0 0 0
+  Key -63.49063873291015625 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   1
-  Key 0 0 0 0 0 0 0 0 0
+  Key -0.81681382656097412109 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
 { Envelope
   1
+  Key -0.24783667922019958496 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
   Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+IKInitCustomFrame 0
+GoalStrength 1
+IKFKBlending 0
+IKSoftMin 0.25
+IKSoftMax 0.75
+CtrlPosItemBlend 1
+CtrlRotItemBlend 1
+CtrlScaleItemBlend 1
+
+PathAlignLookAhead 0.033
+PathAlignMaxLookSteps 10
+PathAlignReliableDist 0.001
+IKInitialState 0
+LightColor 1 1 1
+LightIntensity 0.36
+LightType 0
+LensFlare 0
+FlareIntensity 0.5
+FlareDissolve 0
+LensFlareFade 4
+LensFlareOptions 11
+FlareRingColor 0.3137 0.0784 0.0392
+FlareRingSize 0.22
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 1
+ShadowColor 0 0 0
+Plugin LightHandler 1 DistantLight
+EndPlugin
+
+AddLight 20000002
+LightName Light
+ShowLight 1 -1 0.941176 0.376471 0.941176
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 1.0387349128723144531 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -9.5875453948974609375 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 114.4155426025390625 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -3.0979590415954589844 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key -0.34557524323463439941 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+IKInitCustomFrame 0
+GoalStrength 1
+IKFKBlending 0
+IKSoftMin 0.25
+IKSoftMax 0.75
+CtrlPosItemBlend 1
+CtrlRotItemBlend 1
+CtrlScaleItemBlend 1
+
+PathAlignLookAhead 0.033
+PathAlignMaxLookSteps 10
+PathAlignReliableDist 0.001
+IKInitialState 0
+LightColor 1 1 1
+LightIntensity 0.24
+LightType 0
+LensFlare 0
+FlareIntensity 0.5
+FlareDissolve 0
+LensFlareFade 4
+LensFlareOptions 11
+FlareRingColor 0.3137 0.0784 0.0392
+FlareRingSize 0.22
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 1
+ShadowColor 0 0 0
+Plugin LightHandler 1 DistantLight
+EndPlugin
+
+AddCamera 30000000
+CameraName Camera
+ShowCamera 0 7
+ItemExpand 0 0
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key -30.483249664306640625 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 8.3641977310180664062 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -56.605503082275390625 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0.48520201444625854492 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.14486229419708251953 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 5
@@ -3224,6 +3403,7 @@ ZoomType 1
 ResolutionMultiplier 1.0
 FrameSize 640 480
 PixelAspect 1
+MaskPosition 0 0 640 480
 MotionBlur 0
 MotionBlurPasses 1
 ShutterEfficiency 1
@@ -3231,31 +3411,34 @@ Oversampling 0
 UndockPreview 0
 FieldRendering 0
 ApertureHeight 0.015
-EyeSeparation 0.07
-ConvergencePoint 1
-UseConvergence 0
-AnaglyphOpenGL 1
-ConvergenceToeIn 1
 DepthOfField 0
 FocalDistance 1
 LensFStop 4
 DiaphragmSides 0
 DiaphragmRotation 0
-AASamples 1
-Sampler 0
-AdaptiveThreshold 0.01
-MinimumSamples 1
-MaximumSamples 1
+AASamples 9
+Sampler 2
+UseGlobalResolution 0
+UseGlobalMask 0
+UseGlobalBlur 0
 Plugin CameraHandler 1 Perspective
 EndPlugin
 
-Antialiasing 0
-AntiAliasingLevel -1
-ReconstructionFilter 0
-AdaptiveSampling 1
+GlobalFrameSize 640 480
+GlobalMultiplier 1.0
+GlobalFieldRendering 0
+GlobalMotionBlur 0
+GlobalMaskPosition 0 0 640 480
+GlobalFilmHeight 0.015
+GlobalPixelAspect 1
+
+Antialiasing 2
+AntiAliasingLevel 7
+ReconstructionFilter 2
+AdaptiveSampling 0
 
 SolidBackdrop 1
-BackdropColor 0 0 0
+BackdropColor 0.741497 0.809412 0.859251
 ZenithColor 0.6196 0.736 1
 SkyColor 0.8824 0.9177 1
 GroundColor 0.8824 0.9177 1
@@ -3283,18 +3466,34 @@ RenderLines 1
 RayRecursionLimit 6
 RayPrecision 6
 RayCutoff 0.01
-ShadingSamples 8
-LightSamples 8
 DataOverlayLabel  
 SaveRGB 0
 SaveAlpha 0
 
-ViewConfiguration 0
+ViewConfiguration 4
 DefineView 0
 ViewType 9
 ViewLevel 5
 ViewAimpoint 0 0 0
 ViewZoomFactor 7.516186
+ViewXRay 0
+ViewMBDofPreview 0
+ViewHeadlight 0
+DefineView 1
+ViewType 6
+ViewLevel 2
+CenterItem 1
+ViewAimpoint -0.0876535 -0.103232 -0.0656063
+ViewZoomFactor 25.81253
+ViewXRay 0
+ViewMBDofPreview 0
+ViewHeadlight 0
+DefineView 2
+ViewType 1
+ViewLevel 2
+CenterItem 1
+ViewAimpoint -0.0876535 -0.103232 -0.0656063
+ViewZoomFactor 8.777769
 ViewXRay 0
 ViewMBDofPreview 0
 ViewHeadlight 0
@@ -3308,21 +3507,9 @@ ShowFogEffect 0
 ShowFieldChart 0
 OverlayColor_fv 0 0 0
 MeshBackgroundGroup 1
-Plugin VirtualStudio 1 VirtualStudio
-{ Version
-  2
-  Active 1
-  LIVE 0
-  LIVE_FPS 30
-  Play 0
-  Arm 0
-  PunchIn 0
-  PunchOut 0
-}
-EndPlugin
 
-CurrentObject 10
-CurrentLight 0
+CurrentObject 2
+CurrentLight 1
 CurrentCamera 0
 GraphEditorData
 { GraphEd_Favorites

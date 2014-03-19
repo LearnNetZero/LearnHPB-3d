@@ -10,7 +10,7 @@ RenderRangeArbitrary 1-60
 PreviewFirstFrame 0
 PreviewLastFrame 60
 PreviewFrameStep 1
-CurrentFrame 0
+CurrentFrame 34
 FramesPerSecond 30
 ChangeScene 0
 Plugin ViewportObjectHandler 1 .VPR
@@ -240,6 +240,7 @@ AddNullObject 1000000b Null
 ChangeObject 0
 ShowObject 7 7
 Group 0
+ItemExpand 0 0
 ObjectMotion
 NumChannels 9
 Channel 0
@@ -423,7 +424,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 1000000a Objects/Envelopes/Envelope_ForStrip_WWRBaseline_9ft.lwo
+LoadObjectLayer 1 1000000a Objects/Envelopes/Envelope_ForStrip_WWR30p_9ft.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -439,7 +440,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key 16.39209747314453125 0 0 0 0 0 0.14144421615124741498 0 0
+  Key 16.39209747314453125 0 0 0 0 0 0.14144421615124738723 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -613,7 +614,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000009 Objects/Windows/StripWindows_WWRBaseline_9ft.lwo
+LoadObjectLayer 1 10000009 Objects/Windows/StripWindows_WWR30p_9ft.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -622,56 +623,65 @@ ObjectMotion
 NumChannels 9
 Channel 0
 { Envelope
-  1
+  2
   Key -0.00675201416015625 0 0 0 0 0 0 0 0
+  Key -0.00675201416015625 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
-  1
-  Key 16.39244842529296875 0 0 0 0 0 0.14144421615124741498 0 0
+  2
+  Key 16.28060150146484375 0 0 0 0 0 -0.15979004144355535288 -0.20758899527238028337 0
+  Key 16.07286834716796875 0.4000000000000000222 0 0 0 0 -0.20758899527238028337 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
-  1
+  2
   Key 0.18730926513671875 0 0 0 0 0 0 0 0
+  Key 0.18730926513671875 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
-  1
+  2
   Key -1.5707963705062866211 0 0 0 0 0 0 0 0
+  Key -1.5707963705062866211 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
 { Envelope
-  1
-  Key -0 0 0 0 0 0 0 0 0
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key -0 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 5
 { Envelope
-  1
-  Key -0 0 0 0 0 0 0 0 0
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key -0 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 6
 { Envelope
-  1
+  2
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 7
 { Envelope
-  1
+  2
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 8
 { Envelope
-  1
+  2
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 IKInitCustomFrame 0
@@ -802,7 +812,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000008 Objects/Windows/StripWindows_WWRBaseline_9ft.lwo
+LoadObjectLayer 1 10000008 Objects/Windows/StripWindows_WWR30p_9ft.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -811,56 +821,65 @@ ObjectMotion
 NumChannels 9
 Channel 0
 { Envelope
-  1
+  2
   Key -0.011474609375 0 0 0 0 0 0 0 0
+  Key -0.011474609375 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
-  1
-  Key 12.719914436340332031 0 0 0 0 0 0.14144421615124741498 0 0
+  2
+  Key 12.608067512512207031 0 0 0 0 0 -0.15979004144355535288 -0.20758899527238028337 0
+  Key 12.400334358215332031 0.4000000000000000222 0 0 0 0 -0.20758899527238028337 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
-  1
+  2
   Key 0.18730926513671875 0 0 0 0 0 0 0 0
+  Key 0.18730926513671875 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
-  1
+  2
   Key -1.5707963705062866211 0 0 0 0 0 0 0 0
+  Key -1.5707963705062866211 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
 { Envelope
-  1
-  Key -0 0 0 0 0 0 0 0 0
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key -0 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 5
 { Envelope
-  1
-  Key -0 0 0 0 0 0 0 0 0
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key -0 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 6
 { Envelope
-  1
+  2
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 7
 { Envelope
-  1
+  2
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 8
 { Envelope
-  1
+  2
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 IKInitCustomFrame 0
@@ -991,7 +1010,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000007 Objects/Envelopes/Envelope_ForStrip_WWRBaseline_9ft.lwo
+LoadObjectLayer 1 10000007 Objects/Envelopes/Envelope_ForStrip_WWR30p_9ft.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -1007,7 +1026,7 @@ Channel 0
 Channel 1
 { Envelope
   1
-  Key 12.719563484191894531 0 0 0 0 0 0.14144421615124741498 0 0
+  Key 12.719563484191896308 0 0 0 0 0 0.14144421615124738723 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -1181,7 +1200,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000006 Objects/Envelopes/Envelope_ForStrip_WWRBaseline_9ft.lwo
+LoadObjectLayer 1 10000006 Objects/Envelopes/Envelope_ForStrip_WWR30p_9ft.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -1196,8 +1215,9 @@ Channel 0
 }
 Channel 1
 { Envelope
-  1
-  Key 9.049037933349609375 0 0 0 0 0 0 0 0
+  2
+  Key 9.0490379333496075986 0 0 0 0 0 0 1.7738930989849935303e-15 0
+  Key 9.049037933349609375 0.2000000000000000111 0 0 0 0 1.7738930989849935303e-15 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -1371,7 +1391,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000005 Objects/Windows/StripWindows_WWRBaseline_9ft.lwo
+LoadObjectLayer 1 10000005 Objects/Windows/StripWindows_WWR30p_9ft.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -1380,56 +1400,65 @@ ObjectMotion
 NumChannels 9
 Channel 0
 { Envelope
-  1
+  2
   Key -0.011474609375 0 0 0 0 0 0 0 0
+  Key -0.011474609375 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
-  1
-  Key 9.049388885498046875 0 0 0 0 0 0 0 0
+  2
+  Key 8.937541961669921875 0 0 0 0 0 -0.15979004144355801742 -0.20758899527238205973 0
+  Key 8.7298088073730450986 0.4000000000000000222 0 0 0 0 -0.20758899527238205973 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
-  1
+  2
   Key 0.18730926513671875 0 0 0 0 0 0 0 0
+  Key 0.18730926513671875 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
-  1
+  2
   Key -1.5707963705062866211 0 0 0 0 0 0 0 0
+  Key -1.5707963705062866211 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
 { Envelope
-  1
-  Key -0 0 0 0 0 0 0 0 0
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key -0 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 5
 { Envelope
-  1
-  Key -0 0 0 0 0 0 0 0 0
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key -0 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 6
 { Envelope
-  1
+  2
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 7
 { Envelope
-  1
+  2
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 8
 { Envelope
-  1
+  2
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 IKInitCustomFrame 0
@@ -1560,7 +1589,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000004 Objects/Windows/StripWindows_WWRBaseline_9ft.lwo
+LoadObjectLayer 1 10000004 Objects/Windows/StripWindows_WWR30p_9ft.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -1569,56 +1598,65 @@ ObjectMotion
 NumChannels 9
 Channel 0
 { Envelope
-  1
+  2
   Key -0.011474609375 0 0 0 0 0 0 0 0
+  Key -0.011474609375 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
-  1
-  Key 5.3610591888427734375 0 0 0 0 0 0 0 0
+  2
+  Key 5.2492122650146484375 0 0 0 0 0 -0.1597900414435566574 -0.20758899527238117155 0
+  Key 5.0414791107177725493 0.4000000000000000222 0 0 0 0 -0.20758899527238117155 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
-  1
+  2
   Key 0.18730926513671875 0 0 0 0 0 0 0 0
+  Key 0.18730926513671875 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
-  1
+  2
   Key -1.5707963705062866211 0 0 0 0 0 0 0 0
+  Key -1.5707963705062866211 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
 { Envelope
-  1
-  Key -0 0 0 0 0 0 0 0 0
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key -0 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 5
 { Envelope
-  1
-  Key -0 0 0 0 0 0 0 0 0
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key -0 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 6
 { Envelope
-  1
+  2
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 7
 { Envelope
-  1
+  2
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 8
 { Envelope
-  1
+  2
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.4000000000000000222 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 IKInitCustomFrame 0
@@ -1749,7 +1787,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000003 Objects/Envelopes/Envelope_ForStrip_WWRBaseline_9ft.lwo
+LoadObjectLayer 1 10000003 Objects/Envelopes/Envelope_ForStrip_WWR30p_9ft.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -1764,8 +1802,9 @@ Channel 0
 }
 Channel 1
 { Envelope
-  1
-  Key 5.3607082366943359375 0 0 0 0 0 0 0 0
+  2
+  Key 5.3607082366943350493 0 0 0 0 0 0 8.8694654949249676516e-16 0
+  Key 5.3607082366943359375 0.2000000000000000111 0 0 0 0 8.8694654949249676516e-16 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -1823,383 +1862,6 @@ PathAlignLookAhead 0.033
 PathAlignMaxLookSteps 10
 PathAlignReliableDist 0.001
 PivotPosition -0.0876535 -0.103232 -0.0656063
-ParentItem 1000000b
-IKInitialState 0
-SubPatchLevel 3 3
-APSDisplay
-{ APS
-  Version 1
-  Method 0
-  { VParm
-    { ObjectLevel
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          3
-          0
-        }
-      }
-    }
-    { PolygonLevel
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          3
-          0
-        }
-      }
-    }
-    { PolygonPixelSize
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          256
-          0
-        }
-      }
-    }
-  }
-}
-APSRender
-{ APS
-  Version 1
-  Method 0
-  { VParm
-    { ObjectLevel
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          3
-          0
-        }
-      }
-    }
-    { PolygonLevel
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          3
-          0
-        }
-      }
-    }
-    { PolygonPixelSize
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          256
-          0
-        }
-      }
-    }
-  }
-}
-NodeDisplacement 0
-{ Nodal_Block
-  { Root
-    Location 0 0
-    Zoom 1
-    Disabled 1
-  }
-  Version 1
-  { Nodes
-    Server "Displacement"
-    { Tag
-      RealName "Displacement"
-      Name "Displacement"
-      Coordinates -10 -10
-      Mode 1
-      { Data
-      }
-      Preview ""
-      Comment ""
-    }
-  }
-  { Connections
-  }
-}
-NodeDisplacementOrder 0
-UseObjGI 0
-ObjGIRadiosityRays 64
-ObjGISecondaryBounceRays 16
-ObjGIRadiosityTolerance 0.292893
-ObjGIMinPixelSpacing 4.000000
-ObjGIMaxPixelSpacing 100.000000
-ShadowOptions 7
-
-LoadObjectLayer 1 10000002 Objects/Envelopes/Envelope_ForStrip_WWRBaseline_9ft.lwo
-ChangeObject 0
-ShowObject 7 7
-Group 0
-ObjectMotion
-NumChannels 9
-Channel 0
-{ Envelope
-  1
-  Key 0.031330108642578125 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 1
-{ Envelope
-  1
-  Key 1.6625324487686157227 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 2
-{ Envelope
-  1
-  Key 0.13820648193359375 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 3
-{ Envelope
-  1
-  Key -1.5707963705062866211 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 4
-{ Envelope
-  1
-  Key -0 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 5
-{ Envelope
-  1
-  Key -0 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 6
-{ Envelope
-  1
-  Key 1 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 7
-{ Envelope
-  1
-  Key 1 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 8
-{ Envelope
-  1
-  Key 1 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-IKInitCustomFrame 0
-GoalStrength 1
-IKFKBlending 0
-IKSoftMin 0.25
-IKSoftMax 0.75
-CtrlPosItemBlend 1
-CtrlRotItemBlend 1
-CtrlScaleItemBlend 1
-
-PathAlignLookAhead 0.033
-PathAlignMaxLookSteps 10
-PathAlignReliableDist 0.001
-PivotPosition -0.0876535 -0.103232 -0.0656063
-ParentItem 1000000b
-IKInitialState 0
-SubPatchLevel 3 3
-APSDisplay
-{ APS
-  Version 1
-  Method 0
-  { VParm
-    { ObjectLevel
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          3
-          0
-        }
-      }
-    }
-    { PolygonLevel
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          3
-          0
-        }
-      }
-    }
-    { PolygonPixelSize
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          256
-          0
-        }
-      }
-    }
-  }
-}
-APSRender
-{ APS
-  Version 1
-  Method 0
-  { VParm
-    { ObjectLevel
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          3
-          0
-        }
-      }
-    }
-    { PolygonLevel
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          3
-          0
-        }
-      }
-    }
-    { PolygonPixelSize
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          256
-          0
-        }
-      }
-    }
-  }
-}
-NodeDisplacement 0
-{ Nodal_Block
-  { Root
-    Location 0 0
-    Zoom 1
-    Disabled 1
-  }
-  Version 1
-  { Nodes
-    Server "Displacement"
-    { Tag
-      RealName "Displacement"
-      Name "Displacement"
-      Coordinates -10 -10
-      Mode 1
-      { Data
-      }
-      Preview ""
-      Comment ""
-    }
-  }
-  { Connections
-  }
-}
-NodeDisplacementOrder 0
-UseObjGI 0
-ObjGIRadiosityRays 64
-ObjGISecondaryBounceRays 16
-ObjGIRadiosityTolerance 0.292893
-ObjGIMinPixelSpacing 4.000000
-ObjGIMaxPixelSpacing 100.000000
-ShadowOptions 7
-
-LoadObjectLayer 1 10000001 Objects/Windows/StripWindows_WWRBaseline_9ft.lwo
-ChangeObject 0
-ShowObject 7 7
-Group 0
-ObjectMotion
-NumChannels 9
-Channel 0
-{ Envelope
-  1
-  Key -0.011474609375 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 1
-{ Envelope
-  1
-  Key 1.6628834009170532227 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 2
-{ Envelope
-  1
-  Key 0.18730926513671875 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 3
-{ Envelope
-  1
-  Key -1.5707963705062866211 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 4
-{ Envelope
-  1
-  Key -0 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 5
-{ Envelope
-  1
-  Key -0 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 6
-{ Envelope
-  1
-  Key 1 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 7
-{ Envelope
-  1
-  Key 1 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 8
-{ Envelope
-  1
-  Key 1 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-IKInitCustomFrame 0
-GoalStrength 1
-IKFKBlending 0
-IKSoftMin 0.25
-IKSoftMax 0.75
-CtrlPosItemBlend 1
-CtrlRotItemBlend 1
-CtrlScaleItemBlend 1
-
-PathAlignLookAhead 0.033
-PathAlignMaxLookSteps 10
-PathAlignReliableDist 0.001
 ParentItem 1000000b
 IKInitialState 0
 SubPatchLevel 3 3
@@ -2320,68 +1982,78 @@ AddNullObject 1000000c Null
 ChangeObject 0
 ShowObject 7 7
 Group 0
+ItemExpand 0 0
 ObjectMotion
 NumChannels 9
 Channel 0
 { Envelope
-  2
+  3
   Key 48.7310791015625 0 0 0 0 0 0 0 0
+  Key 48.7310791015625 1.1333333253860473633 0 0 0 0 0 0 0
   Key 48.7310791015625 2 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
-  2
+  3
   Key 0 0 0 0 0 0 0 0 0
+  Key 0 1.1333333253860473633 0 0 0 0 0 0 0
   Key 0 2 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
-  2
-  Key 16.318353652954101562 0 0 0 0 0 0 0 0
-  Key 16.318353652954101562 2 0 0 0 0 0 0 0
+  3
+  Key 16.31835365295409801 0 0 0 0 0 0 0 0
+  Key 16.318353652954101562 1.1333333253860473633 0 0 0 0 0 0 0
+  Key 16.31835365295409801 2 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
-  2
-  Key 0.72605681419372558594 0 0 0 0 0 0 -5.3888282251430874581 0
-  Key -4.6635198593139648438 2 0 0 0 0 -5.3888282251430874581 0 0
+  3
+  Key 0.72605681419372547492 0 0 0 0 0 0 -5.3888282251430883463 0
+  Key -2.3280611038208007812 1.1333333253860473633 0 0 0 0 -3.05409342690477148 -2.3354832466029198379 0
+  Key -4.6635198593139657319 2 0 0 0 0 -5.3888282251430883463 0 0
   Behaviors 1 1
 }
 Channel 4
 { Envelope
-  2
+  3
   Key 0 0 0 0 0 0 0 0 0
+  Key 0 1.1333333253860473633 0 0 0 0 0 0 0
   Key 0 2 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 5
 { Envelope
-  2
+  3
   Key 0 0 0 0 0 0 0 0 0
+  Key 0 1.1333333253860473633 0 0 0 0 0 0 0
   Key 0 2 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 6
 { Envelope
-  2
+  3
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 1.1333333253860473633 0 0 0 0 0 0 0
   Key 1 2 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 7
 { Envelope
-  2
+  3
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 1.1333333253860473633 0 0 0 0 0 0 0
   Key 1 2 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 8
 { Envelope
-  2
+  3
   Key 1 0 0 0 0 0 0 0 0
+  Key 1 1.1333333253860473633 0 0 0 0 0 0 0
   Key 1 2 0 0 0 0 0 0 0
   Behaviors 1 1
 }
@@ -2521,7 +2193,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 9.53578948974609375 0 0 0 0 0 0 0 0
+  Key 9.5357894897460919736 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -2533,13 +2205,13 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -3.3617174625396728516 0 0 0 0 0 0 0 0
+  Key -3.3617174625396732957 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   1
-  Key 0.65798920392990112305 0 0 0 0 0 0 0 0
+  Key 0.65798920392990101202 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -2709,7 +2381,7 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 9.53578948974609375 0 0 0 0 0 0 0 0
+  Key 9.5357894897460919736 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -2721,13 +2393,13 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 7.0035748481750488281 0 0 0 0 0 0 0 0
+  Key 7.0035748481750470518 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   1
-  Key -0.82728600502014160156 0 0 0 0 0 0 0 0
+  Key -0.82728600502014149054 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -2915,7 +2587,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -2.5743608474731445312 0 0 0 0 0 0 0 0
+  Key -2.5743608474731436431 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -2933,19 +2605,19 @@ Channel 5
 Channel 6
 { Envelope
   1
-  Key 1.0979998111724853516 0 0 0 0 0 0 0 0
+  Key 1.0979998111724851295 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 7
 { Envelope
   1
-  Key 1.0979998111724853516 0 0 0 0 0 0 0 0
+  Key 1.0979998111724851295 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 8
 { Envelope
   1
-  Key 1.0979998111724853516 0 0 0 0 0 0 0 0
+  Key 1.0979998111724851295 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 IKInitCustomFrame 0
@@ -3103,7 +2775,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -2.5743608474731445312 0 0 0 0 0 0 0 0
+  Key -2.5743608474731436431 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -3309,19 +2981,19 @@ Channel 5
 Channel 6
 { Envelope
   1
-  Key 1.3279995918273925781 0 0 0 0 0 0 0 0
+  Key 1.3279995918273923561 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 7
 { Envelope
   1
-  Key 1.3279995918273925781 0 0 0 0 0 0 0 0
+  Key 1.3279995918273923561 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 8
 { Envelope
   1
-  Key 1.3279995918273925781 0 0 0 0 0 0 0 0
+  Key 1.3279995918273923561 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 IKInitCustomFrame 0
@@ -3473,13 +3145,13 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 5.1826353073120117188 0 0 0 0 0 0 0 0
+  Key 5.1826353073120134951 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   1
-  Key -4.687953948974609375 0 0 0 0 0 0 0 0
+  Key -4.6879539489746084868 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -3497,19 +3169,19 @@ Channel 5
 Channel 6
 { Envelope
   1
-  Key 1.3279995918273925781 0 0 0 0 0 0 0 0
+  Key 1.3279995918273923561 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 7
 { Envelope
   1
-  Key 1.3279995918273925781 0 0 0 0 0 0 0 0
+  Key 1.3279995918273923561 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 8
 { Envelope
   1
-  Key 1.3279995918273925781 0 0 0 0 0 0 0 0
+  Key 1.3279995918273923561 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 IKInitCustomFrame 0
@@ -3685,19 +3357,19 @@ Channel 5
 Channel 6
 { Envelope
   1
-  Key 1.7819998264312744141 0 0 0 0 0 0 0 0
+  Key 1.78199982643127397 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 7
 { Envelope
   1
-  Key 1.7819998264312744141 0 0 0 0 0 0 0 0
+  Key 1.78199982643127397 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 8
 { Envelope
   1
-  Key 1.7819998264312744141 0 0 0 0 0 0 0 0
+  Key 1.78199982643127397 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 IKInitCustomFrame 0
@@ -3849,13 +3521,13 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 15.688022613525390625 0 0 0 0 0 0 0 0
+  Key 15.688022613525388849 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   1
-  Key 0.78888839483261108398 0 0 0 0 0 0 0 0
+  Key 0.78888839483261119501 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -3873,19 +3545,19 @@ Channel 5
 Channel 6
 { Envelope
   1
-  Key 1.7819998264312744141 0 0 0 0 0 0 0 0
+  Key 1.78199982643127397 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 7
 { Envelope
   1
-  Key 1.7819998264312744141 0 0 0 0 0 0 0 0
+  Key 1.78199982643127397 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 8
 { Envelope
   1
-  Key 1.7819998264312744141 0 0 0 0 0 0 0 0
+  Key 1.78199982643127397 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 IKInitCustomFrame 0
@@ -4043,7 +3715,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key 0.78888839483261108398 0 0 0 0 0 0 0 0
+  Key 0.78888839483261119501 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -4061,19 +3733,19 @@ Channel 5
 Channel 6
 { Envelope
   1
-  Key 1.7819998264312744141 0 0 0 0 0 0 0 0
+  Key 1.78199982643127397 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 7
 { Envelope
   1
-  Key 1.7819998264312744141 0 0 0 0 0 0 0 0
+  Key 1.78199982643127397 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 8
 { Envelope
   1
-  Key 1.7819998264312744141 0 0 0 0 0 0 0 0
+  Key 1.78199982643127397 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 IKInitCustomFrame 0
@@ -4225,13 +3897,13 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key 33.127033233642578125 0 0 0 0 0 0 0 0
+  Key 33.12703323364257102 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   1
-  Key -3.3213617801666259766 0 0 0 0 0 0 0 0
+  Key -3.3213617801666250884 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -4249,19 +3921,19 @@ Channel 5
 Channel 6
 { Envelope
   1
-  Key 1.4859999418258666992 0 0 0 0 0 0 0 0
+  Key 1.4859999418258660331 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 7
 { Envelope
   1
-  Key 1.4859999418258666992 0 0 0 0 0 0 0 0
+  Key 1.4859999418258660331 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 8
 { Envelope
   1
-  Key 1.4859999418258666992 0 0 0 0 0 0 0 0
+  Key 1.4859999418258660331 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 IKInitCustomFrame 0
@@ -4419,7 +4091,7 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key -3.3213617801666259766 0 0 0 0 0 0 0 0
+  Key -3.3213617801666250884 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -4437,19 +4109,19 @@ Channel 5
 Channel 6
 { Envelope
   1
-  Key 1.4859999418258666992 0 0 0 0 0 0 0 0
+  Key 1.4859999418258660331 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 7
 { Envelope
   1
-  Key 1.4859999418258666992 0 0 0 0 0 0 0 0
+  Key 1.4859999418258660331 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 8
 { Envelope
   1
-  Key 1.4859999418258666992 0 0 0 0 0 0 0 0
+  Key 1.4859999418258660331 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 IKInitCustomFrame 0
@@ -4766,8 +4438,952 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
+LoadObjectLayer 1 10000001 Objects/Envelopes/TESTGroundFloorEnvelope_ForStrip_WWR30p_9ft.lwo
+ChangeObject 0
+ShowObject 7 7
+Group 0
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  2
+  Key 48.57259368896484375 0 0 0 0 0 48.505225320464198546 0 0
+  Key 48.57259368896484375 0.6666666865348815918 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  2
+  Key 1.8697628974914550781 0 0 0 0 0 1.8671696063714946501 0 0
+  Key 1.8697628974914550781 0.6666666865348815918 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  2
+  Key 16.482938766479492188 0 0 0 0 0 16.460077547663292563 0 0
+  Key 16.482938766479492188 0.6666666865348815918 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  2
+  Key -1.5707962512969970703 0 0 0 0 0 -1.5686176157196087821 0 0
+  Key -1.5707962512969970703 0.6666666865348815918 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.6666666865348815918 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.6666666865348815918 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  2
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.6666666865348815918 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  2
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.6666666865348815918 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  2
+  Key 1 0 0 0 0 0 0 0 0
+  Key 1 0.6666666865348815918 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+IKInitCustomFrame 0
+GoalStrength 1
+IKFKBlending 0
+IKSoftMin 0.25
+IKSoftMax 0.75
+CtrlPosItemBlend 1
+CtrlRotItemBlend 1
+CtrlScaleItemBlend 1
+
+PathAlignLookAhead 0.033
+PathAlignMaxLookSteps 10
+PathAlignReliableDist 0.001
+IKInitialState 0
+SubPatchLevel 3 3
+APSDisplay
+{ APS
+  Version 1
+  Method 0
+  { VParm
+    { ObjectLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonPixelSize
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          256
+          0
+        }
+      }
+    }
+  }
+}
+APSRender
+{ APS
+  Version 1
+  Method 0
+  { VParm
+    { ObjectLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonPixelSize
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          256
+          0
+        }
+      }
+    }
+  }
+}
+NodeDisplacement 0
+{ Nodal_Block
+  { Root
+    Location 0 0
+    Zoom 1
+    Disabled 1
+  }
+  Version 1
+  { Nodes
+    Server "Displacement"
+    { Tag
+      RealName "Displacement"
+      Name "Displacement"
+      Coordinates -10 -10
+      Mode 1
+      { Data
+      }
+      Preview ""
+      Comment ""
+    }
+  }
+  { Connections
+  }
+}
+NodeDisplacementOrder 0
+UseObjGI 0
+ObjGIRadiosityRays 64
+ObjGISecondaryBounceRays 16
+ObjGIRadiosityTolerance 0.292893
+ObjGIMinPixelSpacing 4.000000
+ObjGIMaxPixelSpacing 100.000000
+ShadowOptions 7
+
+AddNullObject 10000002 TESTGroundFloorEnvelope_ForStrip_WWR30p_9ft.lwo
+ChangeObject 0
+ShowObject 7 7
+Group 0
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+IKInitCustomFrame 0
+GoalStrength 1
+IKFKBlending 0
+IKSoftMin 0.25
+IKSoftMax 0.75
+CtrlPosItemBlend 1
+CtrlRotItemBlend 1
+CtrlScaleItemBlend 1
+
+PathAlignLookAhead 0.033
+PathAlignMaxLookSteps 10
+PathAlignReliableDist 0.001
+IKInitialState 0
+SubPatchLevel 3 3
+APSDisplay
+{ APS
+  Version 1
+  Method 0
+  { VParm
+    { ObjectLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonPixelSize
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          256
+          0
+        }
+      }
+    }
+  }
+}
+APSRender
+{ APS
+  Version 1
+  Method 0
+  { VParm
+    { ObjectLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonPixelSize
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          256
+          0
+        }
+      }
+    }
+  }
+}
+NodeDisplacement 0
+{ Nodal_Block
+  { Root
+    Location 0 0
+    Zoom 1
+    Disabled 1
+  }
+  Version 1
+  { Nodes
+    Server "Displacement"
+    { Tag
+      RealName "Displacement"
+      Name "Displacement"
+      Coordinates -10 -10
+      Mode 1
+      { Data
+      }
+      Preview ""
+      Comment ""
+    }
+  }
+  { Connections
+  }
+}
+NodeDisplacementOrder 0
+UseObjGI 0
+ObjGIRadiosityRays 64
+ObjGISecondaryBounceRays 16
+ObjGIRadiosityTolerance 0.292893
+ObjGIMinPixelSpacing 4.000000
+ObjGIMaxPixelSpacing 100.000000
+ShadowOptions 7
+
+AddNullObject 10000019 TESTGroundFloorEnvelope_ForStrip_WWR30p_9ft.lwo (3)
+ChangeObject 0
+ShowObject 7 7
+Group 0
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+IKInitCustomFrame 0
+GoalStrength 1
+IKFKBlending 0
+IKSoftMin 0.25
+IKSoftMax 0.75
+CtrlPosItemBlend 1
+CtrlRotItemBlend 1
+CtrlScaleItemBlend 1
+
+PathAlignLookAhead 0.033
+PathAlignMaxLookSteps 10
+PathAlignReliableDist 0.001
+IKInitialState 0
+SubPatchLevel 3 3
+APSDisplay
+{ APS
+  Version 1
+  Method 0
+  { VParm
+    { ObjectLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonPixelSize
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          256
+          0
+        }
+      }
+    }
+  }
+}
+APSRender
+{ APS
+  Version 1
+  Method 0
+  { VParm
+    { ObjectLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonPixelSize
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          256
+          0
+        }
+      }
+    }
+  }
+}
+NodeDisplacement 0
+{ Nodal_Block
+  { Root
+    Location 0 0
+    Zoom 1
+    Disabled 1
+  }
+  Version 1
+  { Nodes
+    Server "Displacement"
+    { Tag
+      RealName "Displacement"
+      Name "Displacement"
+      Coordinates -10 -10
+      Mode 1
+      { Data
+      }
+      Preview ""
+      Comment ""
+    }
+  }
+  { Connections
+  }
+}
+NodeDisplacementOrder 0
+UseObjGI 0
+ObjGIRadiosityRays 64
+ObjGISecondaryBounceRays 16
+ObjGIRadiosityTolerance 0.292893
+ObjGIMinPixelSpacing 4.000000
+ObjGIMaxPixelSpacing 100.000000
+ShadowOptions 7
+
+AddNullObject 1000001a TESTGroundFloorEnvelope_ForStrip_WWR30p_9ft.lwo (5)
+ChangeObject 0
+ShowObject 7 7
+Group 0
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+IKInitCustomFrame 0
+GoalStrength 1
+IKFKBlending 0
+IKSoftMin 0.25
+IKSoftMax 0.75
+CtrlPosItemBlend 1
+CtrlRotItemBlend 1
+CtrlScaleItemBlend 1
+
+PathAlignLookAhead 0.033
+PathAlignMaxLookSteps 10
+PathAlignReliableDist 0.001
+IKInitialState 0
+SubPatchLevel 3 3
+APSDisplay
+{ APS
+  Version 1
+  Method 0
+  { VParm
+    { ObjectLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonPixelSize
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          256
+          0
+        }
+      }
+    }
+  }
+}
+APSRender
+{ APS
+  Version 1
+  Method 0
+  { VParm
+    { ObjectLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonPixelSize
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          256
+          0
+        }
+      }
+    }
+  }
+}
+NodeDisplacement 0
+{ Nodal_Block
+  { Root
+    Location 0 0
+    Zoom 1
+    Disabled 1
+  }
+  Version 1
+  { Nodes
+    Server "Displacement"
+    { Tag
+      RealName "Displacement"
+      Name "Displacement"
+      Coordinates -10 -10
+      Mode 1
+      { Data
+      }
+      Preview ""
+      Comment ""
+    }
+  }
+  { Connections
+  }
+}
+NodeDisplacementOrder 0
+UseObjGI 0
+ObjGIRadiosityRays 64
+ObjGISecondaryBounceRays 16
+ObjGIRadiosityTolerance 0.292893
+ObjGIMinPixelSpacing 4.000000
+ObjGIMaxPixelSpacing 100.000000
+ShadowOptions 7
+
+AddNullObject 1000001b TESTGroundFloorEnvelope_ForStrip_WWR30p_9ft.lwo (7)
+ChangeObject 0
+ShowObject 7 7
+Group 0
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+IKInitCustomFrame 0
+GoalStrength 1
+IKFKBlending 0
+IKSoftMin 0.25
+IKSoftMax 0.75
+CtrlPosItemBlend 1
+CtrlRotItemBlend 1
+CtrlScaleItemBlend 1
+
+PathAlignLookAhead 0.033
+PathAlignMaxLookSteps 10
+PathAlignReliableDist 0.001
+IKInitialState 0
+SubPatchLevel 3 3
+APSDisplay
+{ APS
+  Version 1
+  Method 0
+  { VParm
+    { ObjectLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonPixelSize
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          256
+          0
+        }
+      }
+    }
+  }
+}
+APSRender
+{ APS
+  Version 1
+  Method 0
+  { VParm
+    { ObjectLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonPixelSize
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          256
+          0
+        }
+      }
+    }
+  }
+}
+NodeDisplacement 0
+{ Nodal_Block
+  { Root
+    Location 0 0
+    Zoom 1
+    Disabled 1
+  }
+  Version 1
+  { Nodes
+    Server "Displacement"
+    { Tag
+      RealName "Displacement"
+      Name "Displacement"
+      Coordinates -10 -10
+      Mode 1
+      { Data
+      }
+      Preview ""
+      Comment ""
+    }
+  }
+  { Connections
+  }
+}
+NodeDisplacementOrder 0
+UseObjGI 0
+ObjGIRadiosityRays 64
+ObjGISecondaryBounceRays 16
+ObjGIRadiosityTolerance 0.292893
+ObjGIMinPixelSpacing 4.000000
+ObjGIMaxPixelSpacing 100.000000
+ShadowOptions 7
+
 AmbientColor 1 1 1
-AmbientIntensity 0.05
+AmbientIntensity 1
 DoubleSidedAreaLights 1
 EnableRadiosity 1
 RadiosityType 1
@@ -4783,8 +5399,8 @@ RadiosityMultiplier 1
 RadiosityDirectionalRays 0
 RadiosityUseGradients 0
 RadiosityUseBehindTest 1
-BlurRadiosity 1
-RadiosityFlags 0
+BlurRadiosity 0
+RadiosityFlags -2147483648
 RadiosityCacheModulus 1
 RadiosityCacheFilePath Radiosity/radiosity.cache
 PixelFilterForceMT 0
@@ -5014,8 +5630,9 @@ CameraMotion
 NumChannels 6
 Channel 0
 { Envelope
-  1
-  Key -34.359119415283203125 0 0 0 0 0 4.335320803826663294 0 0
+  2
+  Key -34.359119415283203125 0 0 0 0 0 4.335320803826663294 0.39953750553154937508 0
+  Key -33.959415435791015625 0.66666666666666662966 0 0 0 0 0.39953750553154937508 0 0
   Behaviors 1 1
 }
 Channel 1
@@ -5026,8 +5643,9 @@ Channel 1
 }
 Channel 2
 { Envelope
-  1
-  Key -174.3658294677734375 0 0 0 0 0 28.816369705041580573 0 0
+  2
+  Key -174.3658294677734375 0 0 0 0 0 28.816369705041584126 2.4668066365576843957 0
+  Key -171.8979949951171875 0.66666666666666662966 0 0 0 0 2.4668066365576843957 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -5039,7 +5657,7 @@ Channel 3
 Channel 4
 { Envelope
   1
-  Key 0.1745329052209854126 0 0 0 0 0 -0.033092295553481011761 0 0
+  Key 0.17453290522098535709 0 0 0 0 0 -0.033092295553481011761 0 0
   Behaviors 1 1
 }
 Channel 5
@@ -5328,10 +5946,10 @@ ViewMBDofPreview 0
 ViewHeadlight 0
 DefineView 1
 ViewType 6
-ViewLevel 2
+ViewLevel 5
 CenterItem 1
-ViewAimpoint 48.73108 0 16.31835
-ViewZoomFactor 24.93326
+ViewAimpoint 9.676022 0 33.12703
+ViewZoomFactor 417.8337
 ViewXRay 0
 ViewMBDofPreview 0
 ViewHeadlight 0
@@ -5339,7 +5957,7 @@ DefineView 2
 ViewType 1
 ViewLevel 6
 CenterItem 1
-ViewAimpoint 48.73108 0 16.31835
+ViewAimpoint 9.676022 0 33.12703
 ViewZoomFactor 286.0257
 ViewXRay 0
 ViewMBDofPreview 0
@@ -5363,7 +5981,7 @@ ShowFieldChart 0
 OverlayColor_fv 0 0 0
 MeshBackgroundGroup 1
 
-CurrentObject 12
+CurrentObject 20
 CurrentLight 1
 CurrentCamera 0
 GraphEditorData
@@ -5373,7 +5991,7 @@ GraphEditorData
   1
 }
 ImageEditorData
-NumberOfClips 9
+NumberOfClips 11
 Clip 0
 { ClipObject
   "GroundA.jpg"
@@ -5425,6 +6043,18 @@ Clip 7
 Clip 8
 { ClipObject
   "skyWarp__right.jpg"
+  128
+  0
+}
+Clip 9
+{ ClipObject
+  "HeatCoilUV.psd"
+  128
+  0
+}
+Clip 10
+{ ClipObject
+  "CoolingCoilUV.psd"
   128
   0
 }
