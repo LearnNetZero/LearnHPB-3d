@@ -75443,9 +75443,15 @@ DefineView 1
 ViewType 7
 ViewLevel 1
 CenterItem 1
+<<<<<<< HEAD
 ViewAimpoint 48.7939 12.96006 16.49916
 ViewRotation 537.8001 -4.399997 0
 ViewZoomFactor 16347.54
+=======
+ViewAimpoint 48.8299 16.49658 16.42213
+ViewRotation 546.1001 -3.999997 0
+ViewZoomFactor 109.6518
+>>>>>>> b78364c58067acf5d872047cf29b27f1737a6e00
 ViewXRay 0
 ViewMBDofPreview 0
 ViewHeadlight 0
@@ -75453,7 +75459,7 @@ DefineView 2
 ViewType 1
 ViewLevel 6
 CenterItem 1
-ViewAimpoint 48.7939 12.96006 16.49916
+ViewAimpoint 48.8299 16.49658 16.42213
 ViewZoomFactor 154.3435
 ViewXRay 0
 ViewMBDofPreview 0
@@ -75462,7 +75468,7 @@ DefineView 3
 ViewType 6
 ViewLevel 3
 CenterItem 1
-ViewAimpoint 48.7939 12.96006 16.49916
+ViewAimpoint 48.8299 16.49658 16.42213
 ViewZoomFactor 1112.817
 ViewXRay 0
 ViewMBDofPreview 0
@@ -75478,7 +75484,11 @@ ShowFieldChart 0
 OverlayColor_fv 0 0 0
 MeshBackgroundGroup 1
 
+<<<<<<< HEAD
 CurrentObject 391
+=======
+CurrentObject 2
+>>>>>>> b78364c58067acf5d872047cf29b27f1737a6e00
 CurrentLight 0
 CurrentCamera 0
 GraphEditorData
