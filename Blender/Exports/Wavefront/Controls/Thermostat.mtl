@@ -1,0 +1,12 @@
+# Blender MTL File: 'Thermostat.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.340474 0.063347
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\\LHPB\\LearnHPB-3d\\Lightwave\\Content\\Images\\ThermostatUV.jpg

@@ -52,7 +52,7 @@ ColorSpaceCorrectOpenGL 0
 ColorSpaceAffectPicker 0
 FirstBackgroundImageSyncFrame 0
 
-LoadObjectLayer 1 10000000 Objects/Envelopes/ForPublishing/Envelope_WWRBaseline_9ft.lwo
+LoadObjectLayer 1 10000000 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWRBaseline_9ft.lwo
 ChangeObject 0
 ShowObject 7 0
 Group 0
@@ -240,7 +240,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000001 Objects/Windows/ForPublishing/StripWindows_WWRBaseline_9ft.lwo
+LoadObjectLayer 1 10000001 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWRBaseline_9ft.lwo
 ChangeObject 0
 ShowObject 7 0
 Group 0
@@ -312,6 +312,7 @@ CtrlScaleItemBlend 1
 PathAlignLookAhead 0.033
 PathAlignMaxLookSteps 10
 PathAlignReliableDist 0.001
+PivotPosition -0.0876535 -0.103232 -0.0656063
 IKInitialState 0
 SubPatchLevel 3 3
 APSDisplay
@@ -669,7 +670,7 @@ DefineView 0
 ViewType 7
 ViewLevel 6
 ViewAimpoint -4.587526 0 3.061799
-ViewRotation 56.10001 5.299993 0
+ViewRotation 140.8 2.899998 0
 ViewZoomFactor 9.063073
 ViewXRay 0
 ViewMBDofPreview 0

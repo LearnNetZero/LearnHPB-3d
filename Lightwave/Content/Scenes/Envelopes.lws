@@ -52,7 +52,7 @@ ColorSpaceCorrectOpenGL 0
 ColorSpaceAffectPicker 0
 FirstBackgroundImageSyncFrame 0
 
-LoadObjectLayer 1 10000000 Objects/Envelopes/Envelope_WWR20p_9ft.lwo
+LoadObjectLayer 1 10000000 Objects/Envelopes/9ft Envelope/Envelope_ForPunch_WWR20p-25p_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -240,7 +240,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000001 Objects/Envelopes/Envelope_WWR25p_9ft.lwo
+LoadObjectLayer 1 10000001 Objects/Envelopes/9ft Envelope/Envelope_ForPunch_WWR20p-25p_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -428,7 +428,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000002 Objects/Envelopes/Envelope_WWR30p_9ft.lwo
+LoadObjectLayer 1 10000002 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWR30p_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -616,7 +616,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000003 Objects/Envelopes/Envelope_WWR40p_9ft.lwo
+LoadObjectLayer 1 10000003 Objects/Envelopes/9ft Envelope/Envelope_ForPunch_WWR40p_9ft.lwo
 ChangeObject 0
 ShowObject 7 0
 Group 0
@@ -804,7 +804,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000004 Objects/Envelopes/Envelope_WWR50p_9ft.lwo
+LoadObjectLayer 1 10000004 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWR50p_9ft.lwo
 ChangeObject 0
 ShowObject 7 0
 Group 0
@@ -991,7 +991,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000005 Objects/Envelopes/Envelope_WWR60p_9ft.lwo
+LoadObjectLayer 1 10000005 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWR60p_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -1179,7 +1179,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000006 Objects/Envelopes/Envelope_WWR75p_9ft.lwo
+LoadObjectLayer 1 10000006 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWR75p_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -1366,7 +1366,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000007 Objects/Envelopes/Envelope_WWRBaseline_9ft.lwo
+LoadObjectLayer 1 10000007 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWRBaseline_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -1687,7 +1687,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -86.826881408691406 0 0 0 0 0 0 0 0
+  Key -86.826881408691392 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -1796,8 +1796,8 @@ DefineView 0
 ViewType 7
 ViewLevel 5
 ViewAimpoint 0 0 0
-ViewRotation 91.99998 -0.3000054 0
-ViewZoomFactor 11.00433
+ViewRotation 68.69996 11.1 0
+ViewZoomFactor 6.062863
 ViewXRay 0
 ViewMBDofPreview 0
 ViewHeadlight 0

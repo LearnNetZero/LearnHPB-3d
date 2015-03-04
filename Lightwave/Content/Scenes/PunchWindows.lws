@@ -52,7 +52,7 @@ ColorSpaceCorrectOpenGL 0
 ColorSpaceAffectPicker 0
 FirstBackgroundImageSyncFrame 0
 
-LoadObjectLayer 1 10000000 Objects/Windows/PunchWindows_WWR40p_9ft.lwo
+LoadObjectLayer 1 10000000 Objects/Envelopes/9ft Envelope/Envelope_ForPunch_WWR40p_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -240,7 +240,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000003 Objects/Windows/PunchWindows_WWR20p-25p_9ft.lwo
+LoadObjectLayer 1 10000003 Objects/Envelopes/9ft Envelope/Envelope_ForPunch_WWR20p-25p_9ft.lwo
 ChangeObject 0
 ShowObject 6 0
 Group 0
@@ -428,7 +428,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000001 Objects/Envelopes/Envelope_ForPunch_WWR20p-25p_9ft.lwo
+LoadObjectLayer 1 10000001 Objects/Envelopes/9ft Envelope/Envelope_ForPunch_WWR20p-25p_9ft.lwo
 ChangeObject 0
 ShowObject 6 0
 Group 0
@@ -616,7 +616,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000002 Objects/Envelopes/Envelope_ForPunch_WWR40p_9ft.lwo
+LoadObjectLayer 1 10000002 Objects/Envelopes/9ft Envelope/Envelope_ForPunch_WWR40p_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0

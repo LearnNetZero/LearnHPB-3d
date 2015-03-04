@@ -1,0 +1,13 @@
+# Blender MTL File: 'FemaleSittingA.blend'
+# Material Count: 1
+
+newmtl FemaleSittingWrap
+Ns 247.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka E:\\LHPB\\LearnHPB-3d\\Blender\\Content\\Images\\FemaleSittingUV.jpg
+map_Kd E:\\LHPB\\LearnHPB-3d\\Blender\\Content\\Images\\FemaleSittingUV.jpg

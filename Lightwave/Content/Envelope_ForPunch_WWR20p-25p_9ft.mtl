@@ -1,0 +1,44 @@
+newmtl Default
+Ka 0.853153 0.853153 0.853153
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 131
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Exterior_Envelope
+Ka 0.715777 0.672648 0.602652
+Ke 0 0 0
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+Ns 250
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl InteriorPaint
+Ka 0.784314 0.784314 0.784314
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl InteriorPaintTransparent
+Ka 0.784314 0.784314 0.784314
+Ke 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+

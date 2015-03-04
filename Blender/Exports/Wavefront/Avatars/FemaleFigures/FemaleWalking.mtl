@@ -1,0 +1,13 @@
+# Blender MTL File: 'FemaleWalking.blend'
+# Material Count: 1
+
+newmtl FemaleWalkingWrap
+Ns 398.039216
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Ka E:\\LHPB\\LearnHPB-3d\\Lightwave\\Exports\\Wavefront\\Avatars\\Female Models\\FemaleUV.jpg
+map_Kd E:\\LHPB\\LearnHPB-3d\\Lightwave\\Exports\\Wavefront\\Avatars\\Female Models\\FemaleUV.jpg

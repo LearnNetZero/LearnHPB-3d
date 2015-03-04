@@ -52,7 +52,7 @@ ColorSpaceCorrectOpenGL 0
 ColorSpaceAffectPicker 0
 FirstBackgroundImageSyncFrame 0
 
-LoadObjectLayer 1 10000000 Objects/Envelopes/Envelope_ForStrip_WWR30p_9ft.lwo
+LoadObjectLayer 1 10000000 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWR30p_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -240,7 +240,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000001 Objects/Envelopes/Envelope_ForStrip_WWR50p_9ft.lwo
+LoadObjectLayer 1 10000001 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWR50p_9ft.lwo
 ChangeObject 0
 ShowObject 7 0
 Group 0
@@ -427,7 +427,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000002 Objects/Envelopes/Envelope_ForStrip_WWR60p_9ft.lwo
+LoadObjectLayer 1 10000002 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWR60p_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -615,7 +615,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000003 Objects/Envelopes/Envelope_ForStrip_WWR75p_9ft.lwo
+LoadObjectLayer 1 10000003 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWR75p_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -802,7 +802,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000004 Objects/Envelopes/Envelope_ForStrip_WWRBaseline_9ft.lwo
+LoadObjectLayer 1 10000004 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWRBaseline_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -990,7 +990,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000005 Objects/Windows/StripWindows_WWR30p_9ft.lwo
+LoadObjectLayer 1 10000005 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWR30p_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -1062,6 +1062,7 @@ CtrlScaleItemBlend 1
 PathAlignLookAhead 0.033
 PathAlignMaxLookSteps 10
 PathAlignReliableDist 0.001
+PivotPosition -0.0876535 -0.103232 -0.0656063
 IKInitialState 0
 SubPatchLevel 3 3
 APSDisplay
@@ -1177,7 +1178,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000006 Objects/Windows/StripWindows_WWR50p_9ft.lwo
+LoadObjectLayer 1 10000006 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWR50p_9ft.lwo
 ChangeObject 0
 ShowObject 7 0
 Group 0
@@ -1364,7 +1365,195 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000007 Objects/Windows/StripWindows_WWR60p_9ft.lwo
+LoadObjectLayer 1 10000007 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWR60p_9ft.lwo
+ChangeObject 0
+ShowObject 0 0
+Group 0
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+IKInitCustomFrame 0
+GoalStrength 1
+IKFKBlending 0
+IKSoftMin 0.25
+IKSoftMax 0.75
+CtrlPosItemBlend 1
+CtrlRotItemBlend 1
+CtrlScaleItemBlend 1
+
+PathAlignLookAhead 0.033
+PathAlignMaxLookSteps 10
+PathAlignReliableDist 0.001
+PivotPosition -0.0876535 -0.103232 -0.0656063
+IKInitialState 0
+SubPatchLevel 3 3
+APSDisplay
+{ APS
+  Version 1
+  Method 0
+  { VParm
+    { ObjectLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonPixelSize
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          256
+          0
+        }
+      }
+    }
+  }
+}
+APSRender
+{ APS
+  Version 1
+  Method 0
+  { VParm
+    { ObjectLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonLevel
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          3
+          0
+        }
+      }
+    }
+    { PolygonPixelSize
+      0
+      { VariantParameter
+        3
+        0
+        { ParameterValue
+          256
+          0
+        }
+      }
+    }
+  }
+}
+NodeDisplacement 0
+{ Nodal_Block
+  { Root
+    Location 0 0
+    Zoom 1
+    Disabled 1
+  }
+  Version 1
+  { Nodes
+    Server "Displacement"
+    { Tag
+      RealName "Displacement"
+      Name "Displacement"
+      Coordinates -10 -10
+      Mode 1
+      { Data
+      }
+      Preview ""
+      Comment ""
+    }
+  }
+  { Connections
+  }
+}
+NodeDisplacementOrder 0
+UseObjGI 0
+ObjGIRadiosityRays 64
+ObjGISecondaryBounceRays 16
+ObjGIRadiosityTolerance 0.292893
+ObjGIMinPixelSpacing 4.000000
+ObjGIMaxPixelSpacing 100.000000
+ShadowOptions 7
+
+LoadObjectLayer 1 10000008 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWR75p_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -1551,7 +1740,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000008 Objects/Windows/StripWindows_WWR75p_9ft.lwo
+LoadObjectLayer 1 10000009 Objects/Envelopes/9ft Envelope/Envelope_ForStrip_WWRBaseline_9ft.lwo
 ChangeObject 0
 ShowObject 0 0
 Group 0
@@ -1623,193 +1812,7 @@ CtrlScaleItemBlend 1
 PathAlignLookAhead 0.033
 PathAlignMaxLookSteps 10
 PathAlignReliableDist 0.001
-IKInitialState 0
-SubPatchLevel 3 3
-APSDisplay
-{ APS
-  Version 1
-  Method 0
-  { VParm
-    { ObjectLevel
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          3
-          0
-        }
-      }
-    }
-    { PolygonLevel
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          3
-          0
-        }
-      }
-    }
-    { PolygonPixelSize
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          256
-          0
-        }
-      }
-    }
-  }
-}
-APSRender
-{ APS
-  Version 1
-  Method 0
-  { VParm
-    { ObjectLevel
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          3
-          0
-        }
-      }
-    }
-    { PolygonLevel
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          3
-          0
-        }
-      }
-    }
-    { PolygonPixelSize
-      0
-      { VariantParameter
-        3
-        0
-        { ParameterValue
-          256
-          0
-        }
-      }
-    }
-  }
-}
-NodeDisplacement 0
-{ Nodal_Block
-  { Root
-    Location 0 0
-    Zoom 1
-    Disabled 1
-  }
-  Version 1
-  { Nodes
-    Server "Displacement"
-    { Tag
-      RealName "Displacement"
-      Name "Displacement"
-      Coordinates -10 -10
-      Mode 1
-      { Data
-      }
-      Preview ""
-      Comment ""
-    }
-  }
-  { Connections
-  }
-}
-NodeDisplacementOrder 0
-UseObjGI 0
-ObjGIRadiosityRays 64
-ObjGISecondaryBounceRays 16
-ObjGIRadiosityTolerance 0.292893
-ObjGIMinPixelSpacing 4.000000
-ObjGIMaxPixelSpacing 100.000000
-ShadowOptions 7
-
-LoadObjectLayer 1 10000009 Objects/Windows/StripWindows_WWRBaseline_9ft.lwo
-ChangeObject 0
-ShowObject 0 0
-Group 0
-ObjectMotion
-NumChannels 9
-Channel 0
-{ Envelope
-  1
-  Key 0 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 1
-{ Envelope
-  1
-  Key 0 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 2
-{ Envelope
-  1
-  Key 0 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 3
-{ Envelope
-  1
-  Key 0 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 4
-{ Envelope
-  1
-  Key 0 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 5
-{ Envelope
-  1
-  Key 0 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 6
-{ Envelope
-  1
-  Key 1 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 7
-{ Envelope
-  1
-  Key 1 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-Channel 8
-{ Envelope
-  1
-  Key 1 0 0 0 0 0 0 0 0
-  Behaviors 1 1
-}
-IKInitCustomFrame 0
-GoalStrength 1
-IKFKBlending 0
-IKSoftMin 0.25
-IKSoftMax 0.75
-CtrlPosItemBlend 1
-CtrlRotItemBlend 1
-CtrlScaleItemBlend 1
-
-PathAlignLookAhead 0.033
-PathAlignMaxLookSteps 10
-PathAlignReliableDist 0.001
+PivotPosition -0.0876535 -0.103232 -0.0656063
 IKInitialState 0
 SubPatchLevel 3 3
 APSDisplay
@@ -2058,7 +2061,7 @@ Channel 1
 Channel 2
 { Envelope
   1
-  Key -86.984611511230469 0 0 0 0 0 0 0 0
+  Key -86.984611511230483 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -2164,10 +2167,11 @@ SaveAlpha 0
 
 ViewConfiguration 0
 DefineView 0
-ViewType 6
+ViewType 7
 ViewLevel 5
-ViewAimpoint 0 0 0
-ViewZoomFactor 40.50421
+ViewAimpoint 0 1.15 3.75
+ViewRotation 4.5 3.499998 0
+ViewZoomFactor 5.388935
 ViewXRay 0
 ViewMBDofPreview 0
 ViewHeadlight 0

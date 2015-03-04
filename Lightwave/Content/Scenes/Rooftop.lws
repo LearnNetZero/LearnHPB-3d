@@ -50,6 +50,9 @@ ColorSpaceOutput "Linear" "none"
 ColorSpaceOutputAlpha "Linear" "none"
 ColorSpaceAutoSense 0
 ColorSpace8BitToFloat 0
+ColorSpaceCorrectOpenGL 0
+ColorSpaceAffectPicker 0
+FirstBackgroundImageSyncFrame 0
 
 LoadObjectLayer 1 10000001 Objects/Rooftop/Chiller.lwo
 ChangeObject 0
@@ -60,25 +63,25 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.52358788251876831055 0 0 0 0 0 0 0 0
+  Key -0.52358788251876831 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 3.1467926502227783203 0 0 0 0 0 0 0 0
+  Key 3.1467926502227783 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 5.1759095191955566406 0 0 0 0 0 0 0 0
+  Key 5.1759095191955566 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   1
-  Key -1.5707975625991819069 0 0 0 0 0 0 0 0
+  Key -1.5707975625991821 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -248,25 +251,25 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0.28837612271308893375 0 0 0 0 0 0 0 0
+  Key 0.28837612271308888 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 3.3063673973083496094 0 0 0 0 0 0 0 0
+  Key 3.3063673973083496 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 9.9050741195678728701 0 0 0 0 0 0 0 0
+  Key 9.9050741195678711 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   1
-  Key -1.5707955360412590995 0 0 0 0 0 0 0 0
+  Key -1.5707955360412591 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -435,25 +438,25 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 3.2452213764190673828 0 0 0 0 0 0 0 0
+  Key 3.2452213764190674 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 3.2427854537963867188 0 0 0 0 0 0 0 0
+  Key 3.2427854537963867 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 7.2018070220947283389 0 0 0 0 0 0 0 0
+  Key 7.2018070220947275 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   1
-  Key -1.5707966089248655006 0 0 0 0 0 0 0 0
+  Key -1.5707966089248655 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
@@ -623,13 +626,13 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0.0071470253169536616597 0 0 0 0 0 0 0 0
+  Key 0.0071470253169536617 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.035706005990505218506 0 0 0 0 0 0 0 0
+  Key -0.035706005990505219 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
@@ -810,19 +813,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 1.0467627048492431641 0 0 0 0 0 0 0 0
+  Key 1.0467627048492432 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 3.652215480804441583 0 0 0 0 0 0 0 0
+  Key 3.6522154808044416 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 8.4766407012939470889 0 0 0 0 0 0 0 0
+  Key 8.4766407012939471 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -998,19 +1001,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0.017915666103363037109 0 0 0 0 0 0 0 0
+  Key 0.017915666103363034 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.00039687752723693847656 0 0 0 0 0 0 0 0
+  Key -0.00039687752723693848 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 0.17265141010284423828 0 0 0 0 0 0 0 0
+  Key 0.17265141010284421 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -1188,19 +1191,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.028647959232330318796 0 0 0 0 0 0 0 0
+  Key -0.028647959232330322 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 0.16334976255893710051 0 0 0 0 0 0 0 0
+  Key 0.1633497625589371 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 1.9202657938003531157 0 0 0 0 0 0 0 0
+  Key 1.9202657938003527 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -1377,19 +1380,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.024360179901123046875 0 0 0 0 0 0 0 0
+  Key -0.024360179901123047 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 0.90896219015121437756 0 0 0 0 0 0 0 0
+  Key 0.90896219015121438 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 1.0571968555450439453 0 0 0 0 0 0 0 0
+  Key 1.0571968555450439 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -1565,19 +1568,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 4.3330130577087402344 0 0 0 0 0 0 0 0
+  Key 4.3330130577087393 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 2.8433642387390136719 0 0 0 0 0 0 0 0
+  Key 2.8433642387390137 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -2.6117653846740722656 0 0 0 0 0 0 0 0
+  Key -2.6117653846740723 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -1753,19 +1756,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0.1696872413158416748 0 0 0 0 0 0 0 0
+  Key 0.16968724131584167 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 2.8433642387390136719 0 0 0 0 0 0 0 0
+  Key 2.8433642387390137 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -2.8002593517303466797 0 0 0 0 0 0 0 0
+  Key -2.8002593517303458 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -1941,19 +1944,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0.01791566610336303364 0 0 0 0 0 0 0 0
+  Key 0.017915666103363034 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.00039687752723693847656 0 0 0 0 0 0 0 0
+  Key -0.00039687752723693848 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 0.17265141010284418277 0 0 0 0 0 0 0 0
+  Key 0.17265141010284418 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -2131,19 +2134,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0.21276223659515380859 0 0 0 0 0 0 0 0
+  Key 0.21276223659515381 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 0.070240631699562072754 0 0 0 0 0 0 0 0
+  Key 0.070240631699562073 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 3.1608963012695308059 0 0 0 0 0 0 0 0
+  Key 3.1608963012695308 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -2320,19 +2323,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0.17192381620407104492 0 0 0 0 0 0 0 0
+  Key 0.17192381620407104 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 0.073456421494483933876 0 0 0 0 0 0 0 0
+  Key 0.073456421494483948 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -3.1638936996459960938 0 0 0 0 0 0 0 0
+  Key -3.1638936996459961 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -2509,19 +2512,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.028647959232330318796 0 0 0 0 0 0 0 0
+  Key -0.028647959232330322 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 0.16334976255893710051 0 0 0 0 0 0 0 0
+  Key 0.1633497625589371 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 4.605449676513671875 0 0 0 0 0 0 0 0
+  Key 4.6054496765136719 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -2698,19 +2701,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0.054335057735443129112 0 0 0 0 0 0 0 0
+  Key 0.054335057735443129 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 0.15411104261875149812 0 0 0 0 0 0 0 0
+  Key 0.1541110426187515 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -0.28812325000762933902 0 0 0 0 0 0 0 0
+  Key -0.28812325000762934 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -2887,19 +2890,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.028647959232330318796 0 0 0 0 0 0 0 0
+  Key -0.028647959232330322 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 0.16334976255893710051 0 0 0 0 0 0 0 0
+  Key 0.1633497625589371 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 1.9202657938003531157 0 0 0 0 0 0 0 0
+  Key 1.9202657938003527 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -3076,19 +3079,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.024360179901123046875 0 0 0 0 0 0 0 0
+  Key -0.024360179901123047 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 0.90896219015121437756 0 0 0 0 0 0 0 0
+  Key 0.90896219015121438 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 1.0571968555450439453 0 0 0 0 0 0 0 0
+  Key 1.0571968555450439 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -3265,19 +3268,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0.055375516414642333984 0 0 0 0 0 0 0 0
+  Key 0.055375516414642334 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.041984230279922485352 0 0 0 0 0 0 0 0
+  Key -0.041984230279922492 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -0.6997412443161009632 0 0 0 0 0 0 0 0
+  Key -0.69974124431610096 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -3454,19 +3457,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.48852497339248646124 0 0 0 0 0 0 0 0
+  Key -0.48852497339248646 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.10216632485389708085 0 0 0 0 0 0 0 0
+  Key -0.10216632485389709 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -1.9074589014053346947 0 0 0 0 0 0 0 0
+  Key -1.9074589014053347 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -3645,19 +3648,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -4.7468090057373046875 0 0 0 0 0 0 0 0
+  Key -4.7468090057373047 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 2.8433642387390136719 0 0 0 0 0 0 0 0
+  Key 2.8433642387390137 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -2.8002593517303466797 0 0 0 0 0 0 0 0
+  Key -2.8002593517303458 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -3833,19 +3836,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 0.01791566610336303364 0 0 0 0 0 0 0 0
+  Key 0.017915666103363034 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key -0.00039687752723693847656 0 0 0 0 0 0 0 0
+  Key -0.00039687752723693848 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 0.17265141010284418277 0 0 0 0 0 0 0 0
+  Key 0.17265141010284418 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -4023,19 +4026,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -0.024360179901123046875 0 0 0 0 0 0 0 0
+  Key -0.024360179901123047 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 0.90896219015121437756 0 0 0 0 0 0 0 0
+  Key 0.90896219015121438 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key 1.0571968555450439453 0 0 0 0 0 0 0 0
+  Key 1.0571968555450439 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -4202,7 +4205,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000000 Objects/Rooftop/Cover.lwo
+LoadObjectLayer 1 10000000 Objects/Rooftop/HVACCover.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -4211,19 +4214,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key -5.1555299758911132812 0 0 0 0 0 0 0 0
+  Key -5.1555299758911124 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 2.6825528144836425781 0 0 0 0 0 0 0 0
+  Key 2.6825528144836426 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -3.2600157260894775391 0 0 0 0 0 0 0 0
+  Key -3.2600157260894775 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -4389,7 +4392,7 @@ ObjGIMinPixelSpacing 4.000000
 ObjGIMaxPixelSpacing 100.000000
 ShadowOptions 7
 
-LoadObjectLayer 1 10000006 Objects/Rooftop/Cover.lwo
+LoadObjectLayer 1 10000006 Objects/Rooftop/HVACCover.lwo
 ChangeObject 0
 ShowObject 7 7
 Group 0
@@ -4399,19 +4402,19 @@ NumChannels 9
 Channel 0
 { Envelope
   1
-  Key 3.9212181568145751953 0 0 0 0 0 0 0 0
+  Key 3.9212181568145752 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 2.6825528144836425781 0 0 0 0 0 0 0 0
+  Key 2.6825528144836426 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -3.1163713932037353516 0 0 0 0 0 0 0 0
+  Key -3.1163713932037358 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
@@ -4625,13 +4628,13 @@ Channel 2
 Channel 3
 { Envelope
   1
-  Key 0.78539816339744816798 0 0 0 0 0 0 0 0
+  Key 0.78539816339744817 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
 { Envelope
   1
-  Key 0.61086523819801519242 0 0 0 0 0 0 0 0
+  Key 0.61086523819801519 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 5
@@ -4698,31 +4701,31 @@ NumChannels 6
 Channel 0
 { Envelope
   1
-  Key -10.632986068725585938 0 0 0 0 0 0 0 0
+  Key -10.632986068725586 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 1
 { Envelope
   1
-  Key 5.8896813392639160156 0 0 0 0 0 0 0 0
+  Key 5.889681339263916 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 2
 { Envelope
   1
-  Key -17.616611480712890625 0 0 0 0 0 0 0 0
+  Key -17.616611480712887 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 3
 { Envelope
   1
-  Key 0.67020660638809204102 0 0 0 0 0 0 0 0
+  Key 0.67020660638809204 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 4
 { Envelope
   1
-  Key 0.26005399227142333984 0 0 0 0 0 0 0 0
+  Key 0.26005399227142334 0 0 0 0 0 0 0 0
   Behaviors 1 1
 }
 Channel 5
@@ -4749,7 +4752,6 @@ ZoomType 1
 ResolutionMultiplier 1.0
 FrameSize 640 480
 PixelAspect 1
-MaskPosition 0 0 640 480
 MotionBlur 0
 MotionBlurPasses 1
 ShutterEfficiency 1
@@ -4757,6 +4759,11 @@ Oversampling 0
 UndockPreview 0
 FieldRendering 0
 ApertureHeight 0.015
+EyeSeparation 0.07
+ConvergencePoint 1
+UseConvergence 0
+AnaglyphOpenGL 1
+ConvergenceToeIn 1
 DepthOfField 0
 FocalDistance 1
 LensFStop 4
@@ -4764,20 +4771,11 @@ DiaphragmSides 0
 DiaphragmRotation 0
 AASamples 12
 Sampler 1
-UseGlobalResolution 0
-UseGlobalMask 0
-UseGlobalBlur 0
 AdaptiveThreshold 0.01
+MinimumSamples 1
+MaximumSamples 1
 Plugin CameraHandler 1 Perspective
 EndPlugin
-
-GlobalFrameSize 640 480
-GlobalMultiplier 1.0
-GlobalFieldRendering 0
-GlobalMotionBlur 0
-GlobalMaskPosition 0 0 640 480
-GlobalFilmHeight 0.015
-GlobalPixelAspect 1
 
 Antialiasing 2
 AntiAliasingLevel 8
@@ -4813,6 +4811,8 @@ RenderLines 1
 RayRecursionLimit 6
 RayPrecision 6
 RayCutoff 0.01
+ShadingSamples 8
+LightSamples 8
 DataOverlayLabel  
 SaveRGB 0
 SaveAlpha 0
@@ -4822,8 +4822,8 @@ DefineView 0
 ViewType 7
 ViewLevel 5
 ViewAimpoint -0.8122268 3.15023 0.5297344
-ViewRotation 89.20004 39.89997 0
-ViewZoomFactor 11.39239
+ViewRotation 88.80003 18.09995 0
+ViewZoomFactor 17.7531
 ViewXRay 0
 ViewMBDofPreview 0
 ViewHeadlight 0
@@ -4845,6 +4845,18 @@ ShowFogEffect 0
 ShowFieldChart 0
 OverlayColor_fv 0 0 0
 MeshBackgroundGroup 1
+Plugin VirtualStudio 1 VirtualStudio
+{ Version
+  2
+  Active 1
+  LIVE 0
+  LIVE_FPS 30
+  Play 0
+  Arm 0
+  PunchIn 0
+  PunchOut 0
+}
+EndPlugin
 
 CurrentObject 22
 CurrentLight 0
@@ -4859,7 +4871,7 @@ ImageEditorData
 NumberOfClips 2
 Clip 0
 { ClipObject
-  "HeatCoilUV.psd"
+  "HeatCoilUV.jpg"
   128
   0
 }
